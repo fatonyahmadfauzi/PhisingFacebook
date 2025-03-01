@@ -80,16 +80,13 @@ $email = 'your-email@gmail.com';       // ← Your email
 
 ```bash
 PhishingFacebook/
-├── index.php            # Main logic & email handler
-├── style.css            # Login page styling
-├── fonts/               # Fonts assets
-│   └── fontawesome-webfont.eot
-│   └── fontawesome-webfont.svg
-│   └── fontawesome-webfont.ttf
-│   └── fontawesome-webfont.woff
-│   └── fontawesome-webfont.woff2
-│   └── FontAwesome.otf
-│   └── glyphicons-halflings-regular.ttf
+├── index.php            # Main logic
+├── login_desktop.php    # Desktop webview
+├── login_mobile.php     # Mobile webview
+├── handleForm.php       # Form handler
+├── assets/              # assets
+│   └── favicon.png
+│   └── meta.svg
 ├── vendor/              # PHPMailer dependencies
 └── README.md            # This documentation
 ```
