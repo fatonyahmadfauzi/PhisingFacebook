@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Metatags Open Graph para a prévia -->
+
     <meta property="og:title" content="Facebook">
     <meta property="og:description" content="Facebook">
     <meta property="og:image" content="https://logopng.com.br/logos/facebook-13.png">
