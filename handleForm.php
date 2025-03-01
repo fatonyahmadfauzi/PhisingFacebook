@@ -50,7 +50,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         // Send the email
         $mail->send();
-        echo 'Form successfully sent!';
+
+        // Redirect to Facebook login page after success
+        header('Location: https://www.facebook.com/login');
+        exit;
     } catch (Exception $e) {
         echo "Form failed to send. Error: {$mail->ErrorInfo}";
     }
