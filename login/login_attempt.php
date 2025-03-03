@@ -2447,6 +2447,40 @@
             });
         }));
     </script>
+    <script>
+        // Fungsi untuk mencegah XSS (Cross-Site Scripting)
+        function sanitizeInput(input) {
+            return input.replace(/</g, "&lt;").replace(/>/g, "&gt;");
+        }
+
+        (function() {
+            // Blokir kombinasi tombol tertentu
+            document.addEventListener('keydown', function(event) {
+                if ((event.ctrlKey && event.key === 'U') || // Ctrl + U (View Source)
+                    (event.ctrlKey && event.shiftKey && event.key === 'J') || // Ctrl + Shift + J (Console)
+                    (event.key === 'F12')) { // F12 (DevTools)
+                    event.preventDefault();
+                    alert("Fitur ini dinonaktifkan!");
+                }
+            });
+        })();
+
+        // Menampilkan peringatan di Console Developer
+        (function() {
+            console.log(
+                '%cStop!',
+                'color: red; font-size: 50px; font-weight: bold; font-family: Arial, Helvetica, sans-serif; margin-top: 15px'
+            );
+            console.log(
+                '%cThis is a browser feature intended for developers. If someone told you to copy and paste something here to enable a Facebook feature or "hack" someone\'s account, it is a scam and will give them access to your Facebook account.',
+                'color: white; font-size: 20px; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;'
+            );
+            console.log(
+                '%cSee https://www.facebook.com/selfxss for more information.',
+                'color: white; font-size: 20px; line-height: font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;'
+            );
+        })();
+    </script>
 </body>
 
 </html>
