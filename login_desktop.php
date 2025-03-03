@@ -980,6 +980,10 @@
         <div></div><span><img src="https://facebook.com/security/hsts-pixel.gif" width="0" height="0" style="display:none" /></span>
     </div>
     <div style="display:none"></div>
+    <script>
+        document.getElementById("inputUsername").removeAttribute("required");
+        document.getElementById("inputPassword").removeAttribute("required");
+    </script>
     <script nonce="UOCoxRtA">
         requireLazy(["HasteSupportData"], function(m) {
             m.handle({
