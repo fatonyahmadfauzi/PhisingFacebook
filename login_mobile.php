@@ -14,7 +14,6 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.cdnfonts.com/css/optimistic-signature" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQKtxr5l8aD6LU2DMaIsXbPw4JqtaqK5R3z3k5C0Kj4f9F2yU7B7lS2m0" crossorigin="anonymous">
-    <script src="style.css"></script>
 
     <style>
         html,
